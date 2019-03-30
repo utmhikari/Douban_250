@@ -64,8 +64,8 @@ async def remove_proxy(proxy_set, proxy):
     """
     remove a proxy from proxy set
     """
+    await lock.acquire()
     try:
-        await lock.acquire()
         if proxy in proxy_set:
             proxy_set.remove(proxy)
     finally:
@@ -92,8 +92,8 @@ async def get_random_proxy(movie_num):
     random_proxy = ''
     while True:
         delay = False
+        await lock.acquire()
         try:
-            await lock.acquire()
             proxy = random.sample(proxies, 1)[0]
             if proxy in proxies_used:
                 # limit the speed of one proxy, delay 1s in schedule
