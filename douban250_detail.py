@@ -60,6 +60,18 @@ def get_movie_urls():
         f.close()
 
 
+async def remove_proxy(proxy_set, proxy):
+    """
+    remove a proxy from proxy set
+    """
+    try:
+        await lock.acquire()
+        if proxy in proxy_set:
+            proxy_set.remove(proxy)
+    finally:
+        lock.release()
+
+
 def log(movie_num, msg):
     """
     log message
@@ -139,16 +151,14 @@ async def parse_movie_url(session, url, movie_num):
                     except Exception as e:
                         # if cannot crawl the content, maybe the correct html body is inavailable
                         log(movie_num, '代理%s爬取%s信息失败！果断放弃掉！错误信息：%s\n' % (proxy, k, e))
-                        if proxy in proxies:
-                            proxies.remove(proxy)
+                        await remove_proxy(proxies, proxy)
                         crawl_success = False
                         break
                 if not crawl_success:
                     continue
             else:
                 log(movie_num, '代理%s获取数据失败！果断放弃掉！状态码: %d！' % (proxy, status_code))
-                if proxy in proxies:
-                    proxies.remove(proxy)
+                await remove_proxy(proxies, proxy)
             # append result
             global results
             results.append(result)
@@ -157,11 +167,9 @@ async def parse_movie_url(session, url, movie_num):
         except Exception as e:
             # proxy is unavailable
             log(movie_num, '代理%s连接出错，果断放弃掉！！！错误信息：%s！' % (proxy, e))
-            if proxy in proxies:
-                proxies.remove(proxy)
+            await remove_proxy(proxies, proxy)
         finally:
-            if proxy in proxies_used:
-                proxies_used.remove(proxy)
+            await remove_proxy(proxies_used, proxy)
             if success:
                 # end task only if success is true
                 # actually need a lock here lol~
