@@ -34,6 +34,8 @@ movie_urls = []
 task_count = 0
 # results
 results = []
+# asyncio lock
+lock = asyncio.Lock()
 
 
 def get_proxies():
@@ -65,29 +67,43 @@ def log(movie_num, msg):
     :param msg: message
     :return:
     """
-    print('[电影No.%d] %s' % (movie_num, msg))
+    current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print('[%s --- 电影No.%d] %s' % (current_time, movie_num, msg))
 
 
 async def get_random_proxy(movie_num):
     """
     get a random proxy
+    if no proxy, return empty string
     """
+    no_proxy = False
+    random_proxy = ''
     while True:
+        delay = False
         try:
+            await lock.acquire()
             proxy = random.sample(proxies, 1)[0]
             if proxy in proxies_used:
                 # limit the speed of one proxy, delay 1s in schedule
-                log(movie_num, '代理%s还在使用中，延迟%d秒再找= =' % (proxy, proxy_delay_time))
-                await asyncio.sleep(proxy_delay_time)
+                # log(movie_num, '代理%s还在使用中，延迟%d秒再找= =' % (proxy, proxy_delay_time))
+                delay = True
             else:
                 proxies_used.add(proxy)
-                return proxy
+                random_proxy = proxy
         except Exception as e:
             if len(proxies) == 0:
-                return ''
+                no_proxy = True
             else:
                 log(movie_num, '获取代理出错，延迟%d秒再找= =错误信息：%s' % (proxy_delay_time, e))
+                delay = True
+        finally:
+            lock.release()
+            if no_proxy:
+                return ''
+            if delay:
                 await asyncio.sleep(proxy_delay_time)
+            else:
+                return random_proxy
 
 
 async def parse_movie_url(session, url, movie_num):
@@ -105,20 +121,23 @@ async def parse_movie_url(session, url, movie_num):
             return
         # result contains info of a movie
         result = {'number': movie_num, 'url': url, 'proxy': proxy}
-        log(movie_num, '代理%s正在访问%s...' % (proxy, url))
+        # log(movie_num, '代理%s正在访问%s...' % (proxy, url))
         success = False
         try:
             response = await session.get(url, proxy=proxy, headers=headers, timeout=proxy_connection_timeout)
             status_code = response.status
             if status_code == 200:
+                # if no error on response, parse html
                 html_body = await response.text()
                 soup = BeautifulSoup(html_body, html_parser)
                 crawl_success = True
                 for k in content_func_map.keys():
                     try:
+                        # crawl content on specific rules
                         content = content_func_map[k](soup)
                         result[k] = content
                     except Exception as e:
+                        # if cannot crawl the content, maybe the correct html body is inavailable
                         log(movie_num, '代理%s爬取%s信息失败！果断放弃掉！错误信息：%s\n' % (proxy, k, e))
                         if proxy in proxies:
                             proxies.remove(proxy)
@@ -149,6 +168,7 @@ async def parse_movie_url(session, url, movie_num):
                 global task_count
                 task_count = task_count + 1
                 log(movie_num, '当前爬到信息的电影数: %d' % task_count)
+                log(movie_num, '当前幸存的代理数：%d' % len(proxies))
                 break
 
 
@@ -175,7 +195,7 @@ async def main():
         # execute tasks
         await asyncio.gather(*tasks)
         # write result to file
-        with open('movie_info.txt', 'w', encoding='utf-8') as movie_file:
+        with open('movie_info_async.txt', 'w', encoding='utf-8') as movie_file:
             global results
             results = sorted(results, key=lambda k: k['number'])
             movie_file.write(json.dumps(results, indent=2, ensure_ascii=False))
