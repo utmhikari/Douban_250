@@ -1,0 +1,2000 @@
+Number: 1
+URL: https://movie.douban.com/subject/1292052/
+title: 肖申克的救赎 The Shawshank Redemption
+year: 1994
+director: 弗兰克·德拉邦特
+genre: ['剧情', '犯罪']
+score: 9.6
+
+Number: 2
+URL: https://movie.douban.com/subject/1291546/
+title: 霸王别姬
+year: 1993
+director: 陈凯歌
+genre: ['剧情', '爱情', '同性']
+score: 9.6
+
+Number: 3
+URL: https://movie.douban.com/subject/1295644/
+title: 这个杀手不太冷 Léon
+year: 1994
+director: 吕克·贝松
+genre: ['剧情', '动作', '犯罪']
+score: 9.4
+
+Number: 4
+URL: https://movie.douban.com/subject/1292720/
+title: 阿甘正传 Forrest Gump
+year: 1994
+director: 罗伯特·泽米吉斯
+genre: ['剧情', '爱情']
+score: 9.4
+
+Number: 5
+URL: https://movie.douban.com/subject/1292063/
+title: 美丽人生 La vita è bella
+year: 1997
+director: 罗伯托·贝尼尼
+genre: ['剧情', '喜剧', '爱情', '战争']
+score: 9.5
+
+Number: 6
+URL: https://movie.douban.com/subject/1292722/
+title: 泰坦尼克号 Titanic
+year: 1997
+director: 詹姆斯·卡梅隆
+genre: ['剧情', '爱情', '灾难']
+score: 9.3
+
+Number: 7
+URL: https://movie.douban.com/subject/1291561/
+title: 千与千寻 千と千尋の神隠し
+year: 2001
+director: 宫崎骏
+genre: ['剧情', '动画', '奇幻']
+score: 9.3
+
+Number: 8
+URL: https://movie.douban.com/subject/1295124/
+title: 辛德勒的名单 Schindler's List
+year: 1993
+director: 史蒂文·斯皮尔伯格
+genre: ['剧情', '历史', '战争']
+score: 9.5
+
+Number: 9
+URL: https://movie.douban.com/subject/3541415/
+title: 盗梦空间 Inception
+year: 2010
+director: 克里斯托弗·诺兰
+genre: ['剧情', '科幻', '悬疑', '冒险']
+score: 9.3
+
+Number: 10
+URL: https://movie.douban.com/subject/3011091/
+title: 忠犬八公的故事 Hachi: A Dog's Tale
+year: 2009
+director: 拉斯·霍尔斯道姆
+genre: ['剧情']
+score: 9.3
+
+Number: 11
+URL: https://movie.douban.com/subject/2131459/
+title: 机器人总动员 WALL·E
+year: 2008
+director: 安德鲁·斯坦顿
+genre: ['爱情', '科幻', '动画', '冒险']
+score: 9.3
+
+Number: 12
+URL: https://movie.douban.com/subject/3793023/
+title: 三傻大闹宝莱坞 3 Idiots
+year: 2009
+director: 拉吉库马尔·希拉尼
+genre: ['剧情', '喜剧', '爱情', '歌舞']
+score: 9.2
+
+Number: 13
+URL: https://movie.douban.com/subject/1292001/
+title: 海上钢琴师 La leggenda del pianista sull'oceano
+year: 1998
+director: 朱塞佩·托纳多雷
+genre: ['剧情', '音乐']
+score: 9.2
+
+Number: 14
+URL: https://movie.douban.com/subject/1291549/
+title: 放牛班的春天 Les choristes
+year: 2004
+director: 克里斯托夫·巴拉蒂
+genre: ['剧情', '音乐']
+score: 9.3
+
+Number: 15
+URL: https://movie.douban.com/subject/1292064/
+title: 楚门的世界 The Truman Show
+year: 1998
+director: 彼得·威尔
+genre: ['剧情', '科幻']
+score: 9.2
+
+Number: 16
+URL: https://movie.douban.com/subject/1292213/
+title: 大话西游之大圣娶亲 西遊記大結局之仙履奇緣
+year: 1995
+director: 刘镇伟
+genre: ['喜剧', '爱情', '奇幻', '古装']
+score: 9.2
+
+Number: 17
+URL: https://movie.douban.com/subject/1889243/
+title: 星际穿越 Interstellar
+year: 2014
+director: 克里斯托弗·诺兰
+genre: ['剧情', '科幻', '冒险']
+score: 9.2
+
+Number: 18
+URL: https://movie.douban.com/subject/1291560/
+title: 龙猫 となりのトトロ
+year: 1988
+director: 宫崎骏
+genre: ['动画', '奇幻', '冒险']
+score: 9.2
+
+Number: 19
+URL: https://movie.douban.com/subject/1291841/
+title: 教父 The Godfather
+year: 1972
+director: 弗朗西斯·福特·科波拉
+genre: ['剧情', '犯罪']
+score: 9.2
+
+Number: 20
+URL: https://movie.douban.com/subject/5912992/
+title: 熔炉 도가니
+year: 2011
+director: 黄东赫
+genre: ['剧情']
+score: 9.3
+
+Number: 21
+URL: https://movie.douban.com/subject/1307914/
+title: 无间道 無間道
+year: 2002
+director: 刘伟强
+genre: ['剧情', '悬疑', '犯罪']
+score: 9.1
+
+Number: 22
+URL: https://movie.douban.com/subject/25662329/
+title: 疯狂动物城 Zootopia
+year: 2016
+director: 拜伦·霍华德
+genre: ['喜剧', '动画', '冒险']
+score: 9.2
+
+Number: 23
+URL: https://movie.douban.com/subject/1849031/
+title: 当幸福来敲门 The Pursuit of Happyness
+year: 2006
+director: 加布里埃莱·穆奇诺
+genre: ['剧情', '家庭', '传记']
+score: 9.0
+
+Number: 24
+URL: https://movie.douban.com/subject/3319755/
+title: 怦然心动 Flipped
+year: 2010
+director: 罗伯·莱纳
+genre: ['剧情', '喜剧', '爱情']
+score: 9.0
+
+Number: 25
+URL: https://movie.douban.com/subject/6786002/
+title: 触不可及 Intouchables
+year: 2011
+director: 奥利维埃·纳卡什
+genre: ['剧情', '喜剧']
+score: 9.2
+
+Number: 26
+URL: https://movie.douban.com/subject/1300267/
+title: 乱世佳人 Gone with the Wind
+year: 1939
+director: 维克多·弗莱明
+genre: ['剧情', '爱情', '历史', '战争']
+score: 9.2
+
+Number: 27
+URL: https://movie.douban.com/subject/1851857/
+title: 蝙蝠侠：黑暗骑士 The Dark Knight
+year: 2008
+director: 克里斯托弗·诺兰
+genre: ['剧情', '动作', '科幻', '惊悚', '犯罪']
+score: 9.1
+
+Number: 28
+URL: https://movie.douban.com/subject/1292365/
+title: 活着
+year: 1994
+director: 张艺谋
+genre: ['剧情', '家庭', '历史']
+score: 9.2
+
+Number: 29
+URL: https://movie.douban.com/subject/1929463/
+title: 少年派的奇幻漂流 Life of Pi
+year: 2012
+director: 李安
+genre: ['剧情', '奇幻', '冒险']
+score: 9.0
+
+Number: 30
+URL: https://movie.douban.com/subject/1291828/
+title: 天堂电影院 Nuovo Cinema Paradiso
+year: 1988
+director: 朱塞佩·托纳多雷
+genre: ['剧情', '爱情']
+score: 9.2
+
+Number: 31
+URL: https://movie.douban.com/subject/1296141/
+title: 控方证人 Witness for the Prosecution
+year: 1957
+director: 比利·怀德
+genre: ['剧情', '悬疑', '犯罪']
+score: 9.6
+
+Number: 32
+URL: https://movie.douban.com/subject/1291858/
+title: 鬼子来了
+year: 2000
+director: 姜文
+genre: ['剧情', '历史', '战争']
+score: 9.2
+
+Number: 33
+URL: https://movie.douban.com/subject/1293182/
+title: 十二怒汉 12 Angry Men
+year: 1957
+director: 西德尼·吕美特
+genre: ['剧情']
+score: 9.4
+
+Number: 34
+URL: https://movie.douban.com/subject/1291552/
+title: 指环王3：王者无敌 The Lord of the Rings: The Return of the King
+year: 2003
+director: 彼得·杰克逊
+genre: ['剧情', '动作', '奇幻', '冒险']
+score: 9.1
+
+Number: 35
+URL: https://movie.douban.com/subject/1291583/
+title: 天空之城 天空の城ラピュタ
+year: 1986
+director: 宫崎骏
+genre: ['动画', '奇幻', '冒险']
+score: 9.1
+
+Number: 36
+URL: https://movie.douban.com/subject/26387939/
+title: 摔跤吧！爸爸 Dangal
+year: 2016
+director: 涅提·蒂瓦里
+genre: ['剧情', '家庭', '传记', '运动']
+score: 9.1
+
+Number: 37
+URL: https://movie.douban.com/subject/2129039/
+title: 飞屋环游记 Up
+year: 2009
+director: 彼特·道格特
+genre: ['剧情', '喜剧', '动画', '冒险']
+score: 8.9
+
+Number: 38
+URL: https://movie.douban.com/subject/1299398/
+title: 大话西游之月光宝盒 西遊記第壹佰零壹回之月光寶盒
+year: 1995
+director: 刘镇伟
+genre: ['喜剧', '爱情', '奇幻', '古装']
+score: 8.9
+
+Number: 39
+URL: https://movie.douban.com/subject/1292000/
+title: 搏击俱乐部 Fight Club
+year: 1999
+director: 大卫·芬奇
+genre: ['剧情', '动作', '悬疑', '惊悚']
+score: 9.0
+
+Number: 40
+URL: https://movie.douban.com/subject/1293839/
+title: 罗马假日 Roman Holiday
+year: 1953
+director: 威廉·惠勒
+genre: ['剧情', '喜剧', '爱情']
+score: 9.0
+
+Number: 41
+URL: https://movie.douban.com/subject/1308807/
+title: 哈尔的移动城堡 ハウルの動く城
+year: 2004
+director: 宫崎骏
+genre: ['动画', '奇幻', '冒险']
+score: 9.0
+
+Number: 42
+URL: https://movie.douban.com/subject/1298624/
+title: 闻香识女人 Scent of a Woman
+year: 1992
+director: 马丁·布莱斯特
+genre: ['剧情']
+score: 9.0
+
+Number: 43
+URL: https://movie.douban.com/subject/1900841/
+title: 窃听风暴 Das Leben der Anderen
+year: 2006
+director: 弗洛里安·亨克尔·冯·多纳斯马尔克
+genre: ['剧情', '悬疑']
+score: 9.1
+
+Number: 44
+URL: https://movie.douban.com/subject/21937445/
+title: 辩护人 변호인
+year: 2013
+director: 杨宇硕
+genre: ['剧情']
+score: 9.2
+
+Number: 45
+URL: https://movie.douban.com/subject/1293350/
+title: 两杆大烟枪 Lock, Stock and Two Smoking Barrels
+year: 1998
+director: 盖·里奇
+genre: ['剧情', '喜剧', '犯罪']
+score: 9.1
+
+Number: 46
+URL: https://movie.douban.com/subject/1292224/
+title: 飞越疯人院 One Flew Over the Cuckoo's Nest
+year: 1975
+director: 米洛斯·福尔曼
+genre: ['剧情']
+score: 9.1
+
+Number: 47
+URL: https://movie.douban.com/subject/1291548/
+title: 死亡诗社 Dead Poets Society
+year: 1989
+director: 彼得·威尔
+genre: ['剧情']
+score: 9.0
+
+Number: 48
+URL: https://movie.douban.com/subject/1293172/
+title: 末代皇帝 The Last Emperor
+year: 1987
+director: 贝纳尔多·贝托鲁奇
+genre: ['剧情', '传记', '历史']
+score: 9.1
+
+Number: 49
+URL: https://movie.douban.com/subject/1291572/
+title: 指环王2：双塔奇兵 The Lord of the Rings: The Two Towers
+year: 2002
+director: 彼得·杰克逊
+genre: ['剧情', '动作', '奇幻', '冒险']
+score: 9.0
+
+Number: 50
+URL: https://movie.douban.com/subject/1309046/
+title: V字仇杀队 V for Vendetta
+year: 2005
+director: 詹姆斯·麦克特格
+genre: ['剧情', '动作', '科幻', '惊悚']
+score: 8.8
+
+Number: 51
+URL: https://movie.douban.com/subject/1299131/
+title: 教父2 The Godfather: Part Ⅱ
+year: 1974
+director: 弗朗西斯·福特·科波拉
+genre: ['剧情', '犯罪']
+score: 9.1
+
+Number: 52
+URL: https://movie.douban.com/subject/21937452/
+title: 素媛 소원
+year: 2013
+director: 李濬益
+genre: ['剧情']
+score: 9.2
+
+Number: 53
+URL: https://movie.douban.com/subject/1291571/
+title: 指环王1：魔戒再现 The Lord of the Rings: The Fellowship of the Ring
+year: 2001
+director: 彼得·杰克逊
+genre: ['剧情', '动作', '奇幻', '冒险']
+score: 9.0
+
+Number: 54
+URL: https://movie.douban.com/subject/3442220/
+title: 海豚湾 The Cove
+year: 2009
+director: 路易·西霍尤斯
+genre: ['纪录片']
+score: 9.3
+
+Number: 55
+URL: https://movie.douban.com/subject/20495023/
+title: 寻梦环游记 Coco
+year: 2017
+director: 李·昂克里奇
+genre: ['喜剧', '动画', '音乐', '奇幻']
+score: 9.0
+
+Number: 56
+URL: https://movie.douban.com/subject/1291818/
+title: 饮食男女 飲食男女
+year: 1994
+director: 李安
+genre: ['剧情', '家庭']
+score: 9.1
+
+Number: 57
+URL: https://movie.douban.com/subject/1306029/
+title: 美丽心灵 A Beautiful Mind
+year: 2001
+director: 朗·霍华德
+genre: ['剧情', '传记']
+score: 8.9
+
+Number: 58
+URL: https://movie.douban.com/subject/1301753/
+title: 狮子王 The Lion King
+year: 1994
+director: 罗杰·阿勒斯
+genre: ['剧情', '动画', '歌舞', '家庭', '冒险']
+score: 9.0
+
+Number: 59
+URL: https://movie.douban.com/subject/1292220/
+title: 情书 Love Letter
+year: 1995
+director: 岩井俊二
+genre: ['剧情', '爱情']
+score: 8.9
+
+Number: 60
+URL: https://movie.douban.com/subject/1296736/
+title: 钢琴家 The Pianist
+year: 2002
+director: 罗曼·波兰斯基
+genre: ['剧情', '音乐', '传记', '历史', '战争']
+score: 9.1
+
+Number: 61
+URL: https://movie.douban.com/subject/1292262/
+title: 美国往事 Once Upon a Time in America
+year: 1984
+director: 赛尔乔·莱昂内
+genre: ['剧情', '犯罪']
+score: 9.1
+
+Number: 62
+URL: https://movie.douban.com/subject/1485260/
+title: 本杰明·巴顿奇事 The Curious Case of Benjamin Button
+year: 2008
+director: 大卫·芬奇
+genre: ['剧情', '爱情', '奇幻']
+score: 8.8
+
+Number: 63
+URL: https://movie.douban.com/subject/1303021/
+title: 小鞋子 بچههای آسمان
+year: 1997
+director: 马基德·马基迪
+genre: ['剧情', '家庭', '儿童']
+score: 9.2
+
+Number: 64
+URL: https://movie.douban.com/subject/1291843/
+title: 黑客帝国 The Matrix
+year: 1999
+director: 莉莉·沃卓斯基
+genre: ['动作', '科幻']
+score: 8.9
+
+Number: 65
+URL: https://movie.douban.com/subject/26580232/
+title: 看不见的客人 Contratiempo
+year: 2016
+director: 奥里奥尔·保罗
+genre: ['剧情', '悬疑', '惊悚', '犯罪']
+score: 8.8
+
+Number: 66
+URL: https://movie.douban.com/subject/1292402/
+title: 西西里的美丽传说 Malèna
+year: 2000
+director: 朱塞佩·托纳多雷
+genre: ['剧情', '情色', '战争']
+score: 8.8
+
+Number: 67
+URL: https://movie.douban.com/subject/3742360/
+title: 让子弹飞
+year: 2010
+director: 姜文
+genre: ['剧情', '喜剧', '动作', '西部']
+score: 8.7
+
+Number: 68
+URL: https://movie.douban.com/subject/1418019/
+title: 大闹天宫
+year: 1961
+director: 万籁鸣
+genre: ['动画', '奇幻']
+score: 9.3
+
+Number: 69
+URL: https://movie.douban.com/subject/1292849/
+title: 拯救大兵瑞恩 Saving Private Ryan
+year: 1998
+director: 史蒂文·斯皮尔伯格
+genre: ['剧情', '历史', '战争']
+score: 8.9
+
+Number: 70
+URL: https://movie.douban.com/subject/1295038/
+title: 哈利·波特与魔法石 Harry Potter and the Sorcerer's Stone
+year: 2001
+director: 克里斯·哥伦布
+genre: ['奇幻', '冒险']
+score: 8.9
+
+Number: 71
+URL: https://movie.douban.com/subject/1780330/
+title: 致命魔术 The Prestige
+year: 2006
+director: 克里斯托弗·诺兰
+genre: ['剧情', '悬疑', '惊悚']
+score: 8.8
+
+Number: 72
+URL: https://movie.douban.com/subject/1292223/
+title: 七宗罪 Se7en
+year: 1995
+director: 大卫·芬奇
+genre: ['剧情', '悬疑', '惊悚', '犯罪']
+score: 8.8
+
+Number: 73
+URL: https://movie.douban.com/subject/1787291/
+title: 被嫌弃的松子的一生 嫌われ松子の一生
+year: 2006
+director: 中岛哲也
+genre: ['剧情', '歌舞']
+score: 8.9
+
+Number: 74
+URL: https://movie.douban.com/subject/1294408/
+title: 音乐之声 The Sound of Music
+year: 1965
+director: 罗伯特·怀斯
+genre: ['剧情', '爱情', '歌舞', '传记']
+score: 9.0
+
+Number: 75
+URL: https://movie.douban.com/subject/1291832/
+title: 低俗小说 Pulp Fiction
+year: 1994
+director: 昆汀·塔伦蒂诺
+genre: ['剧情', '喜剧', '犯罪']
+score: 8.8
+
+Number: 76
+URL: https://movie.douban.com/subject/1292215/
+title: 天使爱美丽 Le fabuleux destin d'Amélie Poulain
+year: 2001
+director: 让-皮埃尔·热内
+genre: ['喜剧', '爱情']
+score: 8.7
+
+Number: 77
+URL: https://movie.douban.com/subject/1293544/
+title: 沉默的羔羊 The Silence of the Lambs
+year: 1991
+director: 乔纳森·戴米
+genre: ['剧情', '惊悚', '犯罪']
+score: 8.8
+
+Number: 78
+URL: https://movie.douban.com/subject/1294639/
+title: 勇敢的心 Braveheart
+year: 1995
+director: 梅尔·吉布森
+genre: ['剧情', '动作', '传记', '历史', '战争']
+score: 8.9
+
+Number: 79
+URL: https://movie.douban.com/subject/1292370/
+title: 剪刀手爱德华 Edward Scissorhands
+year: 1990
+director: 蒂姆·波顿
+genre: ['剧情', '爱情', '奇幻']
+score: 8.7
+
+Number: 80
+URL: https://movie.douban.com/subject/1292343/
+title: 蝴蝶效应 The Butterfly Effect
+year: 2004
+director: 埃里克·布雷斯
+genre: ['剧情', '科幻', '悬疑', '惊悚']
+score: 8.7
+
+Number: 81
+URL: https://movie.douban.com/subject/1305487/
+title: 猫鼠游戏 Catch Me If You Can
+year: 2002
+director: 史蒂文·斯皮尔伯格
+genre: ['剧情', '传记', '犯罪']
+score: 8.9
+
+Number: 82
+URL: https://movie.douban.com/subject/1292679/
+title: 春光乍泄 春光乍洩
+year: 1997
+director: 王家卫
+genre: ['剧情', '爱情', '同性']
+score: 8.9
+
+Number: 83
+URL: https://movie.douban.com/subject/1292656/
+title: 心灵捕手 Good Will Hunting
+year: 1997
+director: 格斯·范·桑特
+genre: ['剧情']
+score: 8.8
+
+Number: 84
+URL: https://movie.douban.com/subject/11525673/
+title: 布达佩斯大饭店 The Grand Budapest Hotel
+year: 2014
+director: 韦斯·安德森
+genre: ['剧情', '喜剧', '冒险']
+score: 8.8
+
+Number: 85
+URL: https://movie.douban.com/subject/2334904/
+title: 禁闭岛 Shutter Island
+year: 2010
+director: 马丁·斯科塞斯
+genre: ['剧情', '悬疑', '惊悚']
+score: 8.7
+
+Number: 86
+URL: https://movie.douban.com/subject/2149806/
+title: 入殓师 おくりびと
+year: 2008
+director: 泷田洋二郎
+genre: ['剧情']
+score: 8.8
+
+Number: 87
+URL: https://movie.douban.com/subject/3008247/
+title: 穿条纹睡衣的男孩 The Boy in the Striped Pajamas
+year: 2008
+director: 马克·赫尔曼
+genre: ['剧情', '战争']
+score: 9.0
+
+Number: 88
+URL: https://movie.douban.com/subject/1297359/
+title: 幽灵公主 もののけ姫
+year: 1997
+director: 宫崎骏
+genre: ['动画', '奇幻', '冒险']
+score: 8.8
+
+Number: 89
+URL: https://movie.douban.com/subject/1652587/
+title: 阿凡达 Avatar
+year: 2009
+director: 詹姆斯·卡梅隆
+genre: ['动作', '科幻', '战争', '冒险']
+score: 8.7
+
+Number: 90
+URL: https://movie.douban.com/subject/1291875/
+title: 阳光灿烂的日子
+year: 1994
+director: 姜文
+genre: ['剧情', '爱情']
+score: 8.8
+
+Number: 91
+URL: https://movie.douban.com/subject/1297630/
+title: 第六感 The Sixth Sense
+year: 1999
+director: M·奈特·沙马兰
+genre: ['剧情', '悬疑', '惊悚']
+score: 8.8
+
+Number: 92
+URL: https://movie.douban.com/subject/1297192/
+title: 致命ID Identity
+year: 2003
+director: 詹姆斯·曼高德
+genre: ['剧情', '悬疑', '惊悚']
+score: 8.7
+
+Number: 93
+URL: https://movie.douban.com/subject/3072124/
+title: 玛丽和马克思 Mary and Max
+year: 2009
+director: 亚当·艾略特
+genre: ['剧情', '喜剧', '动画']
+score: 8.9
+
+Number: 94
+URL: https://movie.douban.com/subject/6985810/
+title: 狩猎 Jagten
+year: 2012
+director: 托马斯·温特伯格
+genre: ['剧情']
+score: 9.1
+
+Number: 95
+URL: https://movie.douban.com/subject/1298070/
+title: 加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl
+year: 2003
+director: 戈尔·维宾斯基
+genre: ['动作', '奇幻', '冒险']
+score: 8.7
+
+Number: 96
+URL: https://movie.douban.com/subject/1418834/
+title: 断背山 Brokeback Mountain
+year: 2005
+director: 李安
+genre: ['剧情', '爱情', '同性', '家庭']
+score: 8.7
+
+Number: 97
+URL: https://movie.douban.com/subject/1291999/
+title: 重庆森林 重慶森林
+year: 1994
+director: 王家卫
+genre: ['剧情', '爱情']
+score: 8.7
+
+Number: 98
+URL: https://movie.douban.com/subject/1294371/
+title: 摩登时代 Modern Times
+year: 1936
+director: 查理·卓别林
+genre: ['剧情', '喜剧', '爱情']
+score: 9.2
+
+Number: 99
+URL: https://movie.douban.com/subject/4268598/
+title: 告白
+year: 2010
+director: 中岛哲也
+genre: ['剧情', '惊悚']
+score: 8.7
+
+Number: 100
+URL: https://movie.douban.com/subject/1302425/
+title: 喜剧之王 喜劇之王
+year: 1999
+director: 周星驰
+genre: ['剧情', '喜剧', '爱情']
+score: 8.6
+
+Number: 101
+URL: https://movie.douban.com/subject/1291545/
+title: 大鱼 Big Fish
+year: 2003
+director: 蒂姆·波顿
+genre: ['剧情', '家庭', '奇幻', '冒险']
+score: 8.8
+
+Number: 102
+URL: https://movie.douban.com/subject/1292434/
+title: 一一
+year: 2000
+director: 杨德昌
+genre: ['剧情', '爱情', '家庭']
+score: 9.0
+
+Number: 103
+URL: https://movie.douban.com/subject/21318488/
+title: 消失的爱人 Gone Girl
+year: 2014
+director: 大卫·芬奇
+genre: ['剧情', '悬疑', '惊悚', '犯罪']
+score: 8.7
+
+Number: 104
+URL: https://movie.douban.com/subject/1316510/
+title: 射雕英雄传之东成西就 射鵰英雄傳之東成西就
+year: 1993
+director: 刘镇伟
+genre: ['喜剧', '奇幻', '武侠', '古装']
+score: 8.7
+
+Number: 105
+URL: https://movie.douban.com/subject/4917726/
+title: 阳光姐妹淘 써니
+year: 2011
+director: 姜炯哲
+genre: ['剧情', '喜剧']
+score: 8.8
+
+Number: 106
+URL: https://movie.douban.com/subject/1305164/
+title: 甜蜜蜜
+year: 1996
+director: 陈可辛
+genre: ['剧情', '爱情']
+score: 8.8
+
+Number: 107
+URL: https://movie.douban.com/subject/1296339/
+title: 爱在黎明破晓前 Before Sunrise
+year: 1995
+director: 理查德·林克莱特
+genre: ['剧情', '爱情']
+score: 8.8
+
+Number: 108
+URL: https://movie.douban.com/subject/25814705/
+title: 小森林 夏秋篇 リトル・フォレスト 夏・秋
+year: 2014
+director: 森淳一
+genre: ['剧情']
+score: 9.0
+
+Number: 109
+URL: https://movie.douban.com/subject/1297052/
+title: 侧耳倾听 耳をすませば
+year: 1995
+director: 近藤喜文
+genre: ['剧情', '爱情', '动画']
+score: 8.8
+
+Number: 110
+URL: https://movie.douban.com/subject/2353023/
+title: 驯龙高手 How to Train Your Dragon
+year: 2010
+director: 迪恩·德布洛斯
+genre: ['动画', '奇幻', '冒险']
+score: 8.7
+
+Number: 111
+URL: https://movie.douban.com/subject/1865703/
+title: 红辣椒 パプリカ
+year: 2006
+director: 今敏
+genre: ['科幻', '动画', '悬疑', '惊悚']
+score: 8.9
+
+Number: 112
+URL: https://movie.douban.com/subject/1297447/
+title: 倩女幽魂
+year: 1987
+director: 程小东
+genre: ['爱情', '奇幻', '武侠', '古装']
+score: 8.7
+
+Number: 113
+URL: https://movie.douban.com/subject/26799731/
+title: 请以你的名字呼唤我 Call Me by Your Name
+year: 2017
+director: 卢卡·瓜达尼诺
+genre: ['剧情', '爱情', '同性']
+score: 8.8
+
+Number: 114
+URL: https://movie.douban.com/subject/21360417/
+title: 恐怖直播 더 테러 라이브
+year: 2013
+director: 金秉祐
+genre: ['剧情', '悬疑', '犯罪']
+score: 8.7
+
+Number: 115
+URL: https://movie.douban.com/subject/1291585/
+title: 风之谷 風の谷のナウシカ
+year: 1984
+director: 宫崎骏
+genre: ['动画', '奇幻', '冒险']
+score: 8.8
+
+Number: 116
+URL: https://movie.douban.com/subject/1292208/
+title: 上帝之城 Cidade de Deus
+year: 2002
+director: 卡迪亚·兰德
+genre: ['剧情', '犯罪']
+score: 8.9
+
+Number: 117
+URL: https://movie.douban.com/subject/5322596/
+title: 超脱 Detachment
+year: 2011
+director: 托尼·凯耶
+genre: ['剧情']
+score: 8.8
+
+Number: 118
+URL: https://movie.douban.com/subject/1291990/
+title: 爱在日落黄昏时 Before Sunset
+year: 2004
+director: 理查德·林克莱特
+genre: ['剧情', '爱情']
+score: 8.8
+
+Number: 119
+URL: https://movie.douban.com/subject/1293359/
+title: 菊次郎的夏天 菊次郎の夏
+year: 1999
+director: 北野武
+genre: ['剧情', '喜剧']
+score: 8.8
+
+Number: 120
+URL: https://movie.douban.com/subject/1292274/
+title: 幸福终点站 The Terminal
+year: 2004
+director: 史蒂文·斯皮尔伯格
+genre: ['剧情', '喜剧', '爱情']
+score: 8.7
+
+Number: 121
+URL: https://movie.douban.com/subject/3011235/
+title: 哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2
+year: 2011
+director: 大卫·叶茨
+genre: ['剧情', '悬疑', '奇幻', '冒险']
+score: 8.7
+
+Number: 122
+URL: https://movie.douban.com/subject/25814707/
+title: 小森林 冬春篇 リトル・フォレスト 冬・春
+year: 2015
+director: 森淳一
+genre: ['剧情']
+score: 9.0
+
+Number: 123
+URL: https://movie.douban.com/subject/1300299/
+title: 杀人回忆 살인의 추억
+year: 2003
+director: 奉俊昊
+genre: ['剧情', '悬疑', '惊悚', '犯罪']
+score: 8.7
+
+Number: 124
+URL: https://movie.douban.com/subject/3287562/
+title: 神偷奶爸 Despicable Me
+year: 2010
+director: 皮埃尔·柯芬
+genre: ['喜剧', '动画', '冒险']
+score: 8.5
+
+Number: 125
+URL: https://movie.douban.com/subject/4202302/
+title: 借东西的小人阿莉埃蒂 借りぐらしのアリエッティ
+year: 2010
+director: 米林宏昌
+genre: ['动画', '奇幻', '冒险']
+score: 8.7
+
+Number: 126
+URL: https://movie.douban.com/subject/10777687/
+title: 7号房的礼物 7번방의 선물
+year: 2013
+director: 李焕庆
+genre: ['剧情', '喜剧', '家庭']
+score: 8.8
+
+Number: 127
+URL: https://movie.douban.com/subject/5989818/
+title: 萤火之森 蛍火の杜へ
+year: 2011
+director: 大森贵弘
+genre: ['剧情', '爱情', '动画', '奇幻']
+score: 8.8
+
+Number: 128
+URL: https://movie.douban.com/subject/1306249/
+title: 唐伯虎点秋香 唐伯虎點秋香
+year: 1993
+director: 李力持
+genre: ['喜剧', '爱情', '古装']
+score: 8.5
+
+Number: 129
+URL: https://movie.douban.com/subject/1291579/
+title: 怪兽电力公司 Monsters, Inc.
+year: 2001
+director: 彼特·道格特
+genre: ['喜剧', '动画', '儿童', '奇幻', '冒险']
+score: 8.6
+
+Number: 130
+URL: https://movie.douban.com/subject/11026735/
+title: 超能陆战队 Big Hero 6
+year: 2014
+director: 唐·霍尔
+genre: ['喜剧', '动作', '科幻', '动画', '冒险']
+score: 8.6
+
+Number: 131
+URL: https://movie.douban.com/subject/3395373/
+title: 蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises
+year: 2012
+director: 克里斯托弗·诺兰
+genre: ['剧情', '动作', '科幻', '惊悚', '犯罪']
+score: 8.7
+
+Number: 132
+URL: https://movie.douban.com/subject/3792799/
+title: 岁月神偷 歲月神偷
+year: 2010
+director: 罗启锐
+genre: ['剧情', '家庭']
+score: 8.7
+
+Number: 133
+URL: https://movie.douban.com/subject/1295399/
+title: 七武士 七人の侍
+year: 1954
+director: 黑泽明
+genre: ['剧情', '动作', '冒险']
+score: 9.2
+
+Number: 134
+URL: https://movie.douban.com/subject/1417598/
+title: 电锯惊魂 Saw
+year: 2004
+director: 温子仁
+genre: ['悬疑', '惊悚', '恐怖']
+score: 8.7
+
+Number: 135
+URL: https://movie.douban.com/subject/1292401/
+title: 真爱至上 Love Actually
+year: 2003
+director: 理查德·柯蒂斯
+genre: ['剧情', '喜剧', '爱情']
+score: 8.6
+
+Number: 136
+URL: https://movie.douban.com/subject/1578507/
+title: 谍影重重3 The Bourne Ultimatum
+year: 2007
+director: 保罗·格林格拉斯
+genre: ['动作', '悬疑', '惊悚']
+score: 8.7
+
+Number: 137
+URL: https://movie.douban.com/subject/1907966/
+title: 疯狂原始人 The Croods
+year: 2013
+director: 柯克·德·米科
+genre: ['喜剧', '动画', '冒险']
+score: 8.7
+
+Number: 138
+URL: https://movie.douban.com/subject/1303037/
+title: 喜宴 囍宴
+year: 1993
+director: 李安
+genre: ['剧情', '喜剧', '爱情', '同性', '家庭']
+score: 8.9
+
+Number: 139
+URL: https://movie.douban.com/subject/1293318/
+title: 萤火虫之墓 火垂るの墓
+year: 1988
+director: 高畑勋
+genre: ['剧情', '动画', '战争']
+score: 8.7
+
+Number: 140
+URL: https://movie.douban.com/subject/1292337/
+title: 无人知晓 誰も知らない
+year: 2004
+director: 是枝裕和
+genre: ['剧情']
+score: 9.1
+
+Number: 141
+URL: https://movie.douban.com/subject/1292328/
+title: 东邪西毒 東邪西毒
+year: 1994
+director: 王家卫
+genre: ['剧情', '动作', '爱情', '武侠', '古装']
+score: 8.6
+
+Number: 142
+URL: https://movie.douban.com/subject/2209573/
+title: 贫民窟的百万富翁 Slumdog Millionaire
+year: 2008
+director: 丹尼·博伊尔
+genre: ['剧情', '爱情']
+score: 8.5
+
+Number: 143
+URL: https://movie.douban.com/subject/1297574/
+title: 英雄本色
+year: 1986
+director: 吴宇森
+genre: ['动作', '犯罪']
+score: 8.6
+
+Number: 144
+URL: https://movie.douban.com/subject/1978709/
+title: 黑天鹅 Black Swan
+year: 2010
+director: 达伦·阿伦诺夫斯基
+genre: ['剧情', '惊悚']
+score: 8.5
+
+Number: 145
+URL: https://movie.douban.com/subject/1304447/
+title: 记忆碎片 Memento
+year: 2000
+director: 克里斯托弗·诺兰
+genre: ['剧情', '悬疑', '惊悚', '犯罪']
+score: 8.6
+
+Number: 146
+URL: https://movie.douban.com/subject/26325320/
+title: 血战钢锯岭 Hacksaw Ridge
+year: 2016
+director: 梅尔·吉布森
+genre: ['剧情', '传记', '历史', '战争']
+score: 8.7
+
+Number: 147
+URL: https://movie.douban.com/subject/25917973/
+title: 心迷宫
+year: 2014
+director: 忻钰坤
+genre: ['剧情', '悬疑', '犯罪']
+score: 8.7
+
+Number: 148
+URL: https://movie.douban.com/subject/1418200/
+title: 傲慢与偏见 Pride & Prejudice
+year: 2005
+director: 乔·赖特
+genre: ['剧情', '爱情']
+score: 8.5
+
+Number: 149
+URL: https://movie.douban.com/subject/10577869/
+title: 时空恋旅人 About Time
+year: 2013
+director: 理查德·柯蒂斯
+genre: ['喜剧', '爱情', '奇幻']
+score: 8.7
+
+Number: 150
+URL: https://movie.douban.com/subject/1291870/
+title: 雨人 Rain Man
+year: 1988
+director: 巴瑞·莱文森
+genre: ['剧情']
+score: 8.7
+
+Number: 151
+URL: https://movie.douban.com/subject/24750126/
+title: 荒蛮故事 Relatos salvajes
+year: 2014
+director: 达米安·斯兹弗隆
+genre: ['剧情', '喜剧', '犯罪']
+score: 8.8
+
+Number: 152
+URL: https://movie.douban.com/subject/1295409/
+title: 纵横四海 緃横四海
+year: 1991
+director: 吴宇森
+genre: ['剧情', '喜剧', '动作', '犯罪']
+score: 8.7
+
+Number: 153
+URL: https://movie.douban.com/subject/1294240/
+title: 教父3 The Godfather: Part III
+year: 1990
+director: 弗朗西斯·福特·科波拉
+genre: ['剧情', '犯罪']
+score: 8.8
+
+Number: 154
+URL: https://movie.douban.com/subject/1793929/
+title: 达拉斯买家俱乐部 Dallas Buyers Club
+year: 2013
+director: 让-马克·瓦雷
+genre: ['剧情', '同性', '传记']
+score: 8.7
+
+Number: 155
+URL: https://movie.douban.com/subject/1858711/
+title: 玩具总动员3 Toy Story 3
+year: 2010
+director: 李·昂克里奇
+genre: ['喜剧', '动画', '奇幻', '冒险']
+score: 8.8
+
+Number: 156
+URL: https://movie.douban.com/subject/1291822/
+title: 卢旺达饭店 Hotel Rwanda
+year: 2004
+director: 特瑞·乔治
+genre: ['剧情', '历史', '战争']
+score: 8.9
+
+Number: 157
+URL: https://movie.douban.com/subject/1300992/
+title: 完美的世界 A Perfect World
+year: 1993
+director: 克林特·伊斯特伍德
+genre: ['剧情', '犯罪']
+score: 9.1
+
+Number: 158
+URL: https://movie.douban.com/subject/1291557/
+title: 花样年华 花樣年華
+year: 2000
+director: 王家卫
+genre: ['剧情', '爱情']
+score: 8.6
+
+Number: 159
+URL: https://movie.douban.com/subject/25980443/
+title: 海边的曼彻斯特 Manchester by the Sea
+year: 2016
+director: 肯尼思·洛纳根
+genre: ['剧情', '家庭']
+score: 8.6
+
+Number: 160
+URL: https://movie.douban.com/subject/3443389/
+title: 海洋 Océans
+year: 2009
+director: 雅克·贝汉
+genre: ['纪录片']
+score: 9.0
+
+Number: 161
+URL: https://movie.douban.com/subject/1296909/
+title: 虎口脱险 La grande vadrouille
+year: 1966
+director: 热拉尔·乌里
+genre: ['喜剧', '战争']
+score: 8.9
+
+Number: 162
+URL: https://movie.douban.com/subject/1309163/
+title: 恋恋笔记本 The Notebook
+year: 2004
+director: 尼克·卡萨维茨
+genre: ['剧情', '爱情']
+score: 8.5
+
+Number: 163
+URL: https://movie.douban.com/subject/4848115/
+title: 你看起来好像很好吃 おまえうまそうだな
+year: 2010
+director: 藤森雅也
+genre: ['剧情', '动画', '儿童']
+score: 8.8
+
+Number: 164
+URL: https://movie.douban.com/subject/26430107/
+title: 二十二
+year: 2015
+director: 郭柯
+genre: ['纪录片']
+score: 8.7
+
+Number: 165
+URL: https://movie.douban.com/subject/6307447/
+title: 被解救的姜戈 Django Unchained
+year: 2012
+director: 昆汀·塔伦蒂诺
+genre: ['剧情', '动作', '西部', '冒险']
+score: 8.6
+
+Number: 166
+URL: https://movie.douban.com/subject/10533913/
+title: 头脑特工队 Inside Out
+year: 2015
+director: 彼特·道格特
+genre: ['喜剧', '动画', '冒险']
+score: 8.7
+
+Number: 167
+URL: https://movie.douban.com/subject/1295865/
+title: 燃情岁月 Legends of the Fall
+year: 1994
+director: 爱德华·兹威克
+genre: ['剧情', '爱情', '战争', '西部']
+score: 8.7
+
+Number: 168
+URL: https://movie.douban.com/subject/6534248/
+title: 无敌破坏王 Wreck-It Ralph
+year: 2012
+director: 瑞奇·摩尔
+genre: ['喜剧', '动画', '奇幻', '冒险']
+score: 8.7
+
+Number: 169
+URL: https://movie.douban.com/subject/1291578/
+title: 冰川时代 Ice Age
+year: 2002
+director: 卡洛斯·沙尔丹哈
+genre: ['喜剧', '动画', '冒险']
+score: 8.5
+
+Number: 170
+URL: https://movie.douban.com/subject/26683290/
+title: 你的名字。 君の名は。
+year: 2016
+director: 新海诚
+genre: ['剧情', '爱情', '动画']
+score: 8.4
+
+Number: 171
+URL: https://movie.douban.com/subject/1306861/
+title: 我是山姆 I Am Sam
+year: 2001
+director: 杰茜·尼尔森
+genre: ['剧情', '家庭']
+score: 8.9
+
+Number: 172
+URL: https://movie.douban.com/subject/1293460/
+title: 雨中曲 Singin' in the Rain
+year: 1952
+director: 斯坦利·多南
+genre: ['喜剧', '爱情', '歌舞']
+score: 9.0
+
+Number: 173
+URL: https://movie.douban.com/subject/25773932/
+title: 爆裂鼓手 Whiplash
+year: 2014
+director: 达米恩·查泽雷
+genre: ['剧情', '音乐']
+score: 8.6
+
+Number: 174
+URL: https://movie.douban.com/subject/1302827/
+title: 人工智能 Artificial Intelligence: AI
+year: 2001
+director: 史蒂文·斯皮尔伯格
+genre: ['剧情', '科幻', '冒险']
+score: 8.6
+
+Number: 175
+URL: https://movie.douban.com/subject/26611804/
+title: 三块广告牌 Three Billboards Outside Ebbing, Missouri
+year: 2017
+director: 马丁·麦克唐纳
+genre: ['剧情', '犯罪']
+score: 8.7
+
+Number: 176
+URL: https://movie.douban.com/subject/1937946/
+title: 穿越时空的少女 時をかける少女
+year: 2006
+director: 细田守
+genre: ['剧情', '爱情', '科幻', '动画']
+score: 8.6
+
+Number: 177
+URL: https://movie.douban.com/subject/1293964/
+title: 魂断蓝桥 Waterloo Bridge
+year: 1940
+director: 茂文·勒鲁瓦
+genre: ['剧情', '爱情', '战争']
+score: 8.8
+
+Number: 178
+URL: https://movie.douban.com/subject/1395091/
+title: 未麻的部屋 Perfect Blue
+year: 1997
+director: 今敏
+genre: ['动画', '惊悚', '奇幻']
+score: 8.9
+
+Number: 179
+URL: https://movie.douban.com/subject/1292528/
+title: 猜火车 Trainspotting
+year: 1996
+director: 丹尼·博伊尔
+genre: ['剧情', '犯罪']
+score: 8.5
+
+Number: 180
+URL: https://movie.douban.com/subject/10463953/
+title: 模仿游戏 The Imitation Game
+year: 2014
+director: 莫滕·泰杜姆
+genre: ['剧情', '同性', '传记', '战争']
+score: 8.6
+
+Number: 181
+URL: https://movie.douban.com/subject/26628357/
+title: 一个叫欧维的男人决定去死 En man som heter Ove
+year: 2015
+director: 汉内斯·赫尔姆
+genre: ['剧情']
+score: 8.8
+
+Number: 182
+URL: https://movie.douban.com/subject/25724855/
+title: 房间 Room
+year: 2015
+director: 伦尼·阿伯拉罕森
+genre: ['剧情', '家庭']
+score: 8.8
+
+Number: 183
+URL: https://movie.douban.com/subject/1959195/
+title: 忠犬八公物语 ハチ公物語
+year: 1987
+director: 神山征二郎
+genre: ['剧情']
+score: 9.1
+
+Number: 184
+URL: https://movie.douban.com/subject/26614893/
+title: 完美陌生人 Perfetti sconosciuti
+year: 2016
+director: 保罗·格诺维塞
+genre: ['剧情', '喜剧']
+score: 8.6
+
+Number: 185
+URL: https://movie.douban.com/subject/1291879/
+title: 罗生门 羅生門
+year: 1950
+director: 黑泽明
+genre: ['剧情', '悬疑', '犯罪']
+score: 8.7
+
+Number: 186
+URL: https://movie.douban.com/subject/3011051/
+title: 恐怖游轮 Triangle
+year: 2009
+director: 克里斯托弗·史密斯
+genre: ['剧情', '悬疑', '惊悚']
+score: 8.4
+
+Number: 187
+URL: https://movie.douban.com/subject/1307811/
+title: 魔女宅急便 魔女の宅急便
+year: 1989
+director: 宫崎骏
+genre: ['动画', '奇幻', '冒险']
+score: 8.5
+
+Number: 188
+URL: https://movie.douban.com/subject/1305690/
+title: 阿飞正传 阿飛正傳
+year: 1990
+director: 王家卫
+genre: ['剧情', '爱情', '犯罪']
+score: 8.5
+
+Number: 189
+URL: https://movie.douban.com/subject/1760622/
+title: 香水 Perfume: The Story of a Murderer
+year: 2006
+director: 汤姆·提克威
+genre: ['剧情', '犯罪', '奇幻']
+score: 8.5
+
+Number: 190
+URL: https://movie.douban.com/subject/2297265/
+title: 浪潮 Die Welle
+year: 2008
+director: 丹尼斯·甘塞尔
+genre: ['剧情', '惊悚']
+score: 8.7
+
+Number: 191
+URL: https://movie.douban.com/subject/2213597/
+title: 朗读者 The Reader
+year: 2008
+director: 史蒂芬·戴德利
+genre: ['剧情', '爱情']
+score: 8.5
+
+Number: 192
+URL: https://movie.douban.com/subject/1307315/
+title: 哪吒闹海
+year: 1979
+director: 严定宪
+genre: ['动画', '奇幻', '冒险']
+score: 8.9
+
+Number: 193
+URL: https://movie.douban.com/subject/1308857/
+title: 可可西里
+year: 2004
+director: 陆川
+genre: ['剧情', '犯罪']
+score: 8.7
+
+Number: 194
+URL: https://movie.douban.com/subject/1302467/
+title: 黑客帝国3：矩阵革命 The Matrix Revolutions
+year: 2003
+director: 莉莉·沃卓斯基
+genre: ['动作', '科幻']
+score: 8.6
+
+Number: 195
+URL: https://movie.douban.com/subject/25895901/
+title: 海街日记 海街diary
+year: 2015
+director: 是枝裕和
+genre: ['剧情', '家庭']
+score: 8.7
+
+Number: 196
+URL: https://movie.douban.com/subject/1304102/
+title: 谍影重重 The Bourne Identity
+year: 2002
+director: 道格·里曼
+genre: ['动作', '悬疑', '惊悚']
+score: 8.5
+
+Number: 197
+URL: https://movie.douban.com/subject/1308767/
+title: 谍影重重2 The Bourne Supremacy
+year: 2004
+director: 保罗·格林格拉斯
+genre: ['动作', '悬疑', '惊悚']
+score: 8.6
+
+Number: 198
+URL: https://movie.douban.com/subject/1419936/
+title: 战争之王 Lord of War
+year: 2005
+director: 安德鲁·尼科尔
+genre: ['剧情', '犯罪']
+score: 8.6
+
+Number: 199
+URL: https://movie.douban.com/subject/1292329/
+title: 牯岭街少年杀人事件 牯嶺街少年殺人事件
+year: 1991
+director: 杨德昌
+genre: ['剧情', '犯罪']
+score: 8.8
+
+Number: 200
+URL: https://movie.douban.com/subject/2363506/
+title: 地球上的星星 Taare Zameen Par
+year: 2007
+director: 阿米尔·汗
+genre: ['剧情', '家庭', '儿童']
+score: 8.9
+
+Number: 201
+URL: https://movie.douban.com/subject/5964718/
+title: 一次别离 جدایی نادر از سیمین
+year: 2011
+director: 阿斯哈·法哈蒂
+genre: ['剧情', '家庭']
+score: 8.7
+
+Number: 202
+URL: https://movie.douban.com/subject/1303394/
+title: 青蛇
+year: 1993
+director: 徐克
+genre: ['剧情', '爱情', '奇幻', '古装']
+score: 8.5
+
+Number: 203
+URL: https://movie.douban.com/subject/1293181/
+title: 惊魂记 Psycho
+year: 1960
+director: 阿尔弗雷德·希区柯克
+genre: ['悬疑', '惊悚', '恐怖']
+score: 8.9
+
+Number: 204
+URL: https://movie.douban.com/subject/1397546/
+title: 追随 Following
+year: 1998
+director: 克里斯托弗·诺兰
+genre: ['悬疑', '惊悚', '犯罪']
+score: 8.9
+
+Number: 205
+URL: https://movie.douban.com/subject/1862151/
+title: 疯狂的石头
+year: 2006
+director: 宁浩
+genre: ['喜剧', '犯罪']
+score: 8.4
+
+Number: 206
+URL: https://movie.douban.com/subject/1291844/
+title: 终结者2：审判日 Terminator 2: Judgment Day
+year: 1991
+director: 詹姆斯·卡梅隆
+genre: ['动作', '科幻']
+score: 8.6
+
+Number: 207
+URL: https://movie.douban.com/subject/26393561/
+title: 小萝莉的猴神大叔 Bajrangi Bhaijaan
+year: 2015
+director: 卡比尔·汗
+genre: ['剧情', '喜剧', '动作']
+score: 8.5
+
+Number: 208
+URL: https://movie.douban.com/subject/3075287/
+title: 源代码 Source Code
+year: 2011
+director: 邓肯·琼斯
+genre: ['科幻', '悬疑', '惊悚']
+score: 8.4
+
+Number: 209
+URL: https://movie.douban.com/subject/1388216/
+title: 撞车 Crash
+year: 2004
+director: 保罗·哈吉斯
+genre: ['剧情', '犯罪']
+score: 8.6
+
+Number: 210
+URL: https://movie.douban.com/subject/2222996/
+title: 步履不停 歩いても 歩いても
+year: 2008
+director: 是枝裕和
+genre: ['剧情', '家庭']
+score: 8.8
+
+Number: 211
+URL: https://movie.douban.com/subject/6874403/
+title: 再次出发之纽约遇见你 Begin Again
+year: 2013
+director: 约翰·卡尼
+genre: ['喜剧', '爱情', '音乐']
+score: 8.5
+
+Number: 212
+URL: https://movie.douban.com/subject/4739952/
+title: 初恋这件小事 สิ่งเล็กเล็กที่เรียกว่า...รัก
+year: 2010
+director: 普特鹏·普罗萨卡·那·萨克那卡林
+genre: ['剧情', '喜剧', '爱情']
+score: 8.3
+
+Number: 213
+URL: https://movie.douban.com/subject/1292287/
+title: 新龙门客栈 新龍門客棧
+year: 1992
+director: 李惠民
+genre: ['动作', '爱情', '武侠', '古装']
+score: 8.5
+
+Number: 214
+URL: https://movie.douban.com/subject/1292270/
+title: 梦之安魂曲 Requiem for a Dream
+year: 2000
+director: 达伦·阿伦诺夫斯基
+genre: ['剧情']
+score: 8.7
+
+Number: 215
+URL: https://movie.douban.com/subject/1428581/
+title: 天书奇谭
+year: 1983
+director: 王树忱
+genre: ['动画', '奇幻']
+score: 9.1
+
+Number: 216
+URL: https://movie.douban.com/subject/10808442/
+title: 爱在午夜降临前 Before Midnight
+year: 2013
+director: 理查德·林克莱特
+genre: ['剧情', '爱情']
+score: 8.8
+
+Number: 217
+URL: https://movie.douban.com/subject/1291568/
+title: 东京物语 東京物語
+year: 1953
+director: 小津安二郎
+genre: ['剧情', '家庭']
+score: 9.2
+
+Number: 218
+URL: https://movie.douban.com/subject/1438652/
+title: 无耻混蛋 Inglourious Basterds
+year: 2009
+director: 昆汀·塔伦蒂诺
+genre: ['剧情', '犯罪']
+score: 8.5
+
+Number: 219
+URL: https://movie.douban.com/subject/1293908/
+title: 城市之光 City Lights
+year: 1931
+director: 查理·卓别林
+genre: ['剧情', '喜剧', '爱情']
+score: 9.3
+
+Number: 220
+URL: https://movie.douban.com/subject/25958717/
+title: 海蒂和爷爷 Heidi
+year: 2015
+director: 阿兰·葛斯彭纳
+genre: ['剧情', '家庭', '冒险']
+score: 9.1
+
+Number: 221
+URL: https://movie.douban.com/subject/1300374/
+title: 绿里奇迹 The Green Mile
+year: 1999
+director: 弗兰克·德拉邦特
+genre: ['剧情', '悬疑', '犯罪', '奇幻']
+score: 8.7
+
+Number: 222
+URL: https://movie.douban.com/subject/25807345/
+title: 彗星来的那一夜 Coherence
+year: 2013
+director: 詹姆斯·沃德·布柯特
+genre: ['科幻', '悬疑', '惊悚']
+score: 8.5
+
+Number: 223
+URL: https://movie.douban.com/subject/2300586/
+title: 这个男人来自地球 The Man from Earth
+year: 2007
+director: 理查德·沙因克曼
+genre: ['剧情', '科幻']
+score: 8.5
+
+Number: 224
+URL: https://movie.douban.com/subject/1428175/
+title: 血钻 Blood Diamond
+year: 2006
+director: 爱德华·兹威克
+genre: ['剧情', '惊悚', '冒险']
+score: 8.6
+
+Number: 225
+URL: https://movie.douban.com/subject/1294638/
+title: E.T. 外星人 E.T.: The Extra-Terrestrial
+year: 1982
+director: 史蒂文·斯皮尔伯格
+genre: ['剧情', '科幻']
+score: 8.5
+
+Number: 226
+URL: https://movie.douban.com/subject/1291992/
+title: 末路狂花 Thelma & Louise
+year: 1991
+director: 雷德利·斯科特
+genre: ['剧情', '惊悚', '犯罪']
+score: 8.7
+
+Number: 227
+URL: https://movie.douban.com/subject/1292226/
+title: 2001太空漫游 2001: A Space Odyssey
+year: 1968
+director: 斯坦利·库布里克
+genre: ['科幻', '惊悚', '冒险']
+score: 8.7
+
+Number: 228
+URL: https://movie.douban.com/subject/25954475/
+title: 聚焦 Spotlight
+year: 2015
+director: 汤姆·麦卡锡
+genre: ['剧情', '传记']
+score: 8.8
+
+Number: 229
+URL: https://movie.douban.com/subject/1292728/
+title: 勇闯夺命岛 The Rock
+year: 1996
+director: 迈克尔·贝
+genre: ['动作', '冒险']
+score: 8.6
+
+Number: 230
+URL: https://movie.douban.com/subject/1292659/
+title: 变脸 Face/Off
+year: 1997
+director: 吴宇森
+genre: ['动作', '科幻', '惊悚', '犯罪']
+score: 8.4
+
+Number: 231
+URL: https://movie.douban.com/subject/1292233/
+title: 发条橙 A Clockwork Orange
+year: 1971
+director: 斯坦利·库布里克
+genre: ['剧情', '科幻', '犯罪']
+score: 8.5
+
+Number: 232
+URL: https://movie.douban.com/subject/2043546/
+title: 秒速5厘米 秒速5センチメートル
+year: 2007
+director: 新海诚
+genre: ['剧情', '爱情', '动画']
+score: 8.3
+
+Number: 233
+URL: https://movie.douban.com/subject/1401118/
+title: 黄金三镖客 Il buono, il brutto, il cattivo.
+year: 1966
+director: 赛尔乔·莱昂内
+genre: ['西部', '冒险']
+score: 9.1
+
+Number: 234
+URL: https://movie.douban.com/subject/1291824/
+title: 黑鹰坠落 Black Hawk Down
+year: 2001
+director: 雷德利·斯科特
+genre: ['动作', '历史', '战争']
+score: 8.6
+
+Number: 235
+URL: https://movie.douban.com/subject/1292214/
+title: 非常嫌疑犯 The Usual Suspects
+year: 1995
+director: 布莱恩·辛格
+genre: ['剧情', '悬疑', '惊悚', '犯罪']
+score: 8.6
+
+Number: 236
+URL: https://movie.douban.com/subject/1296753/
+title: 卡萨布兰卡 Casablanca
+year: 1942
+director: 迈克尔·柯蒂兹
+genre: ['剧情', '爱情', '战争']
+score: 8.6
+
+Number: 237
+URL: https://movie.douban.com/subject/5908478/
+title: 我爱你 그대를 사랑합니다
+year: 2011
+director: 秋昌旼
+genre: ['剧情', '爱情']
+score: 9.0
+
+Number: 238
+URL: https://movie.douban.com/subject/4023638/
+title: 国王的演讲 The King's Speech
+year: 2010
+director: 汤姆·霍珀
+genre: ['剧情', '传记', '历史']
+score: 8.3
+
+Number: 239
+URL: https://movie.douban.com/subject/1300117/
+title: 千钧一发 Gattaca
+year: 1997
+director: 安德鲁·尼科尔
+genre: ['剧情', '科幻', '惊悚']
+score: 8.7
+
+Number: 240
+URL: https://movie.douban.com/subject/1292062/
+title: 美国丽人 American Beauty
+year: 1999
+director: 萨姆·门德斯
+genre: ['剧情', '爱情', '家庭']
+score: 8.5
+
+Number: 241
+URL: https://movie.douban.com/subject/1291543/
+title: 功夫
+year: 2004
+director: 周星驰
+genre: ['喜剧', '动作', '犯罪', '奇幻']
+score: 8.3
+
+Number: 242
+URL: https://movie.douban.com/subject/1867345/
+title: 遗愿清单 The Bucket List
+year: 2007
+director: 罗伯·莱纳
+genre: ['剧情', '喜剧', '冒险']
+score: 8.5
+
+Number: 243
+URL: https://movie.douban.com/subject/3592854/
+title: 疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road
+year: 2015
+director: 乔治·米勒
+genre: ['动作', '科幻', '冒险']
+score: 8.6
+
+Number: 244
+URL: https://movie.douban.com/subject/1300960/
+title: 碧海蓝天 Le grand bleu
+year: 1988
+director: 吕克·贝松
+genre: ['剧情', '爱情']
+score: 8.7
+
+Number: 245
+URL: https://movie.douban.com/subject/1298653/
+title: 荒岛余生 Cast Away
+year: 2000
+director: 罗伯特·泽米吉斯
+genre: ['剧情', '冒险']
+score: 8.5
+
+Number: 246
+URL: https://movie.douban.com/subject/1291853/
+title: 英国病人 The English Patient
+year: 1996
+director: 安东尼·明格拉
+genre: ['剧情', '爱情', '战争']
+score: 8.5
+
+Number: 247
+URL: https://movie.douban.com/subject/1905462/
+title: 荒野生存 Into the Wild
+year: 2007
+director: 西恩·潘
+genre: ['剧情', '传记', '冒险']
+score: 8.6
+
+Number: 248
+URL: https://movie.douban.com/subject/25921812/
+title: 驴得水
+year: 2016
+director: 周申
+genre: ['剧情', '喜剧']
+score: 8.3
+
+Number: 249
+URL: https://movie.douban.com/subject/26787574/
+title: 奇迹男孩 Wonder
+year: 2017
+director: 斯蒂芬·卓博斯基
+genre: ['剧情', '家庭', '儿童']
+score: 8.6
+
+Number: 250
+URL: https://movie.douban.com/subject/1300741/
+title: 枪火 鎗火
+year: 1999
+director: 杜琪峰
+genre: ['剧情', '动作', '犯罪']
+score: 8.7
+
