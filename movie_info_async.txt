@@ -2,7 +2,7 @@
   {
     "number": 1,
     "url": "https://movie.douban.com/subject/1292052/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://111.177.190.78:9999",
     "title": "肖申克的救赎 The Shawshank Redemption",
     "year": "1994",
     "time": "142分钟",
@@ -16,7 +16,7 @@
   {
     "number": 2,
     "url": "https://movie.douban.com/subject/1291546/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://119.102.28.173:9999",
     "title": "霸王别姬",
     "year": "1993",
     "time": "171 分钟",
@@ -31,12 +31,22 @@
   {
     "number": 3,
     "url": "https://movie.douban.com/subject/1295644/",
-    "proxy": "http://47.75.229.228:3128"
+    "proxy": "http://111.177.160.122:9999",
+    "title": "这个杀手不太冷 Léon",
+    "year": "1994",
+    "time": "110分钟(剧场版)",
+    "director": "吕克·贝松",
+    "genre": [
+      "剧情",
+      "动作",
+      "犯罪"
+    ],
+    "score": "9.4"
   },
   {
     "number": 4,
     "url": "https://movie.douban.com/subject/1292720/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://103.9.190.203:8080",
     "title": "阿甘正传 Forrest Gump",
     "year": "1994",
     "time": "142分钟",
@@ -50,7 +60,7 @@
   {
     "number": 5,
     "url": "https://movie.douban.com/subject/1292063/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://182.53.206.153:57469",
     "title": "美丽人生 La vita è bella",
     "year": "1997",
     "time": "116分钟",
@@ -66,7 +76,7 @@
   {
     "number": 6,
     "url": "https://movie.douban.com/subject/1292722/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://121.233.206.27:9999",
     "title": "泰坦尼克号 Titanic",
     "year": "1997",
     "time": "194分钟",
@@ -81,7 +91,7 @@
   {
     "number": 7,
     "url": "https://movie.douban.com/subject/1291561/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://119.102.28.173:9999",
     "title": "千与千寻 千と千尋の神隠し",
     "year": "2001",
     "time": "125分钟",
@@ -96,7 +106,7 @@
   {
     "number": 8,
     "url": "https://movie.douban.com/subject/1295124/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://118.174.220.11:60148",
     "title": "辛德勒的名单 Schindler's List",
     "year": "1993",
     "time": "195分钟",
@@ -111,7 +121,7 @@
   {
     "number": 9,
     "url": "https://movie.douban.com/subject/3541415/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://124.205.155.153:9090",
     "title": "盗梦空间 Inception",
     "year": "2010",
     "time": "148分钟",
@@ -127,7 +137,7 @@
   {
     "number": 10,
     "url": "https://movie.douban.com/subject/3011091/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://119.82.252.75:53722",
     "title": "忠犬八公的故事 Hachi: A Dog's Tale",
     "year": "2009",
     "time": "93分钟",
@@ -140,7 +150,7 @@
   {
     "number": 11,
     "url": "https://movie.douban.com/subject/2131459/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://121.233.206.27:9999",
     "title": "机器人总动员 WALL·E",
     "year": "2008",
     "time": "98分钟",
@@ -156,7 +166,7 @@
   {
     "number": 12,
     "url": "https://movie.douban.com/subject/3793023/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://103.9.190.203:8080",
     "title": "三傻大闹宝莱坞 3 Idiots",
     "year": "2009",
     "time": "171分钟(印度)",
@@ -172,7 +182,7 @@
   {
     "number": 13,
     "url": "https://movie.douban.com/subject/1292001/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://13.114.159.59:80",
     "title": "海上钢琴师 La leggenda del pianista sull'oceano",
     "year": "1998",
     "time": "165分钟",
@@ -186,7 +196,7 @@
   {
     "number": 14,
     "url": "https://movie.douban.com/subject/1291549/",
-    "proxy": "http://91.135.242.10:8080",
+    "proxy": "http://111.177.182.217:9999",
     "title": "放牛班的春天 Les choristes",
     "year": "2004",
     "time": "97分钟",
@@ -200,7 +210,7 @@
   {
     "number": 15,
     "url": "https://movie.douban.com/subject/1292064/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://111.177.190.78:9999",
     "title": "楚门的世界 The Truman Show",
     "year": "1998",
     "time": "103分钟",
@@ -214,7 +224,7 @@
   {
     "number": 16,
     "url": "https://movie.douban.com/subject/1292213/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://119.102.28.173:9999",
     "title": "大话西游之大圣娶亲 西遊記大結局之仙履奇緣",
     "year": "1995",
     "time": "95分钟",
@@ -230,7 +240,7 @@
   {
     "number": 17,
     "url": "https://movie.douban.com/subject/1889243/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://119.102.28.173:9999",
     "title": "星际穿越 Interstellar",
     "year": "2014",
     "time": "169分钟",
@@ -245,7 +255,7 @@
   {
     "number": 18,
     "url": "https://movie.douban.com/subject/1291560/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://111.177.160.163:9999",
     "title": "龙猫 となりのトトロ",
     "year": "1988",
     "time": "86分钟",
@@ -260,7 +270,7 @@
   {
     "number": 19,
     "url": "https://movie.douban.com/subject/1291841/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://13.114.159.59:80",
     "title": "教父 The Godfather",
     "year": "1972",
     "time": "175 分钟",
@@ -274,7 +284,7 @@
   {
     "number": 20,
     "url": "https://movie.douban.com/subject/5912992/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://103.9.190.203:8080",
     "title": "熔炉 도가니",
     "year": "2011",
     "time": "125分钟",
@@ -287,7 +297,7 @@
   {
     "number": 21,
     "url": "https://movie.douban.com/subject/1307914/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://118.174.220.11:60148",
     "title": "无间道 無間道",
     "year": "2002",
     "time": "101分钟",
@@ -302,7 +312,7 @@
   {
     "number": 22,
     "url": "https://movie.douban.com/subject/25662329/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://85.15.179.5:8080",
     "title": "疯狂动物城 Zootopia",
     "year": "2016",
     "time": "109分钟(中国大陆)",
@@ -317,7 +327,7 @@
   {
     "number": 23,
     "url": "https://movie.douban.com/subject/1849031/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://113.200.56.13:8010",
     "title": "当幸福来敲门 The Pursuit of Happyness",
     "year": "2006",
     "time": "117分钟",
@@ -332,7 +342,7 @@
   {
     "number": 24,
     "url": "https://movie.douban.com/subject/3319755/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://111.177.175.51:9999",
     "title": "怦然心动 Flipped",
     "year": "2010",
     "time": "90分钟",
@@ -347,7 +357,7 @@
   {
     "number": 25,
     "url": "https://movie.douban.com/subject/6786002/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://118.173.233.152:41245",
     "title": "触不可及 Intouchables",
     "year": "2011",
     "time": "112分钟",
@@ -361,7 +371,7 @@
   {
     "number": 26,
     "url": "https://movie.douban.com/subject/1300267/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://103.9.190.203:8080",
     "title": "乱世佳人 Gone with the Wind",
     "year": "1939",
     "time": "238分钟",
@@ -377,7 +387,7 @@
   {
     "number": 27,
     "url": "https://movie.douban.com/subject/1851857/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.190.78:9999",
     "title": "蝙蝠侠：黑暗骑士 The Dark Knight",
     "year": "2008",
     "time": "152分钟",
@@ -394,7 +404,7 @@
   {
     "number": 28,
     "url": "https://movie.douban.com/subject/1292365/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://119.82.252.75:53722",
     "title": "活着",
     "year": "1994",
     "time": "132分钟",
@@ -409,7 +419,7 @@
   {
     "number": 29,
     "url": "https://movie.douban.com/subject/1929463/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.160.163:9999",
     "title": "少年派的奇幻漂流 Life of Pi",
     "year": "2012",
     "time": "127分钟",
@@ -424,7 +434,7 @@
   {
     "number": 30,
     "url": "https://movie.douban.com/subject/1291828/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://111.177.167.244:9999",
     "title": "天堂电影院 Nuovo Cinema Paradiso",
     "year": "1988",
     "time": "155分钟",
@@ -438,7 +448,7 @@
   {
     "number": 31,
     "url": "https://movie.douban.com/subject/1296141/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://111.177.160.163:9999",
     "title": "控方证人 Witness for the Prosecution",
     "year": "1957",
     "time": "116分钟",
@@ -453,7 +463,7 @@
   {
     "number": 32,
     "url": "https://movie.douban.com/subject/1291858/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://47.95.156.32:3200",
     "title": "鬼子来了",
     "year": "2000",
     "time": "139分钟",
@@ -468,7 +478,7 @@
   {
     "number": 33,
     "url": "https://movie.douban.com/subject/1293182/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://212.83.142.185:54321",
     "title": "十二怒汉 12 Angry Men",
     "year": "1957",
     "time": "96 分钟",
@@ -481,7 +491,7 @@
   {
     "number": 34,
     "url": "https://movie.douban.com/subject/1291552/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://163.204.241.60:9999",
     "title": "指环王3：王者无敌 The Lord of the Rings: The Return of the King",
     "year": "2003",
     "time": "201分钟",
@@ -497,7 +507,7 @@
   {
     "number": 35,
     "url": "https://movie.douban.com/subject/1291583/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://119.102.28.173:9999",
     "title": "天空之城 天空の城ラピュタ",
     "year": "1986",
     "time": "125分钟",
@@ -512,7 +522,7 @@
   {
     "number": 36,
     "url": "https://movie.douban.com/subject/26387939/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://124.205.155.153:9090",
     "title": "摔跤吧！爸爸 Dangal",
     "year": "2016",
     "time": "161分钟(印度)",
@@ -528,7 +538,7 @@
   {
     "number": 37,
     "url": "https://movie.douban.com/subject/2129039/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://111.177.160.122:9999",
     "title": "飞屋环游记 Up",
     "year": "2009",
     "time": "96分钟",
@@ -544,7 +554,7 @@
   {
     "number": 38,
     "url": "https://movie.douban.com/subject/1299398/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://120.194.42.157:38185",
     "title": "大话西游之月光宝盒 西遊記第壹佰零壹回之月光寶盒",
     "year": "1995",
     "time": "87分钟",
@@ -560,7 +570,7 @@
   {
     "number": 39,
     "url": "https://movie.douban.com/subject/1292000/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://13.114.159.59:80",
     "title": "搏击俱乐部 Fight Club",
     "year": "1999",
     "time": "139 分钟",
@@ -576,7 +586,7 @@
   {
     "number": 40,
     "url": "https://movie.douban.com/subject/1293839/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://46.101.246.130:3128",
     "title": "罗马假日 Roman Holiday",
     "year": "1953",
     "time": "118分钟",
@@ -591,7 +601,7 @@
   {
     "number": 41,
     "url": "https://movie.douban.com/subject/1308807/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://212.83.142.185:54321",
     "title": "哈尔的移动城堡 ハウルの動く城",
     "year": "2004",
     "time": "119分钟",
@@ -606,7 +616,7 @@
   {
     "number": 42,
     "url": "https://movie.douban.com/subject/1298624/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://111.177.175.51:9999",
     "title": "闻香识女人 Scent of a Woman",
     "year": "1992",
     "time": "157 分钟",
@@ -619,7 +629,7 @@
   {
     "number": 43,
     "url": "https://movie.douban.com/subject/1900841/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://118.174.234.40:43178",
     "title": "窃听风暴 Das Leben der Anderen",
     "year": "2006",
     "time": "137分钟",
@@ -633,7 +643,7 @@
   {
     "number": 44,
     "url": "https://movie.douban.com/subject/21937445/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://203.189.137.112:8080",
     "title": "辩护人 변호인",
     "year": "2013",
     "time": "127分钟",
@@ -646,7 +656,7 @@
   {
     "number": 45,
     "url": "https://movie.douban.com/subject/1293350/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://111.177.160.122:9999",
     "title": "两杆大烟枪 Lock, Stock and Two Smoking Barrels",
     "year": "1998",
     "time": "107分钟",
@@ -661,7 +671,7 @@
   {
     "number": 46,
     "url": "https://movie.douban.com/subject/1292224/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://111.177.182.217:9999",
     "title": "飞越疯人院 One Flew Over the Cuckoo's Nest",
     "year": "1975",
     "time": "133分钟",
@@ -674,7 +684,7 @@
   {
     "number": 47,
     "url": "https://movie.douban.com/subject/1291548/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://60.13.42.132:9999",
     "title": "死亡诗社 Dead Poets Society",
     "year": "1989",
     "time": "128 分钟",
@@ -687,12 +697,22 @@
   {
     "number": 48,
     "url": "https://movie.douban.com/subject/1293172/",
-    "proxy": "http://221.122.91.64:80"
+    "proxy": "http://14.115.104.11:808",
+    "title": "末代皇帝 The Last Emperor",
+    "year": "1987",
+    "time": "163分钟",
+    "director": "贝纳尔多·贝托鲁奇",
+    "genre": [
+      "剧情",
+      "传记",
+      "历史"
+    ],
+    "score": "9.1"
   },
   {
     "number": 49,
     "url": "https://movie.douban.com/subject/1291572/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://118.174.220.11:60148",
     "title": "指环王2：双塔奇兵 The Lord of the Rings: The Two Towers",
     "year": "2002",
     "time": "179分钟",
@@ -708,7 +728,7 @@
   {
     "number": 50,
     "url": "https://movie.douban.com/subject/1309046/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://13.114.159.59:80",
     "title": "V字仇杀队 V for Vendetta",
     "year": "2005",
     "time": "132分钟",
@@ -724,7 +744,7 @@
   {
     "number": 51,
     "url": "https://movie.douban.com/subject/1299131/",
-    "proxy": "http://78.111.250.174:8080",
+    "proxy": "http://185.6.125.41:43176",
     "title": "教父2 The Godfather: Part Ⅱ",
     "year": "1974",
     "time": "202分钟",
@@ -738,7 +758,7 @@
   {
     "number": 52,
     "url": "https://movie.douban.com/subject/21937452/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://182.53.206.153:57469",
     "title": "素媛 소원",
     "year": "2013",
     "time": "123分钟",
@@ -751,7 +771,7 @@
   {
     "number": 53,
     "url": "https://movie.douban.com/subject/1291571/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://46.101.246.130:3128",
     "title": "指环王1：魔戒再现 The Lord of the Rings: The Fellowship of the Ring",
     "year": "2001",
     "time": "178分钟",
@@ -767,7 +787,7 @@
   {
     "number": 54,
     "url": "https://movie.douban.com/subject/3442220/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://163.204.247.225:9999",
     "title": "海豚湾 The Cove",
     "year": "2009",
     "time": "92分钟",
@@ -780,7 +800,7 @@
   {
     "number": 55,
     "url": "https://movie.douban.com/subject/20495023/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://163.204.247.225:9999",
     "title": "寻梦环游记 Coco",
     "year": "2017",
     "time": "105分钟",
@@ -796,7 +816,7 @@
   {
     "number": 56,
     "url": "https://movie.douban.com/subject/1291818/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://111.177.190.78:9999",
     "title": "饮食男女 飲食男女",
     "year": "1994",
     "time": "124分钟",
@@ -810,7 +830,7 @@
   {
     "number": 57,
     "url": "https://movie.douban.com/subject/1306029/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://85.15.179.5:8080",
     "title": "美丽心灵 A Beautiful Mind",
     "year": "2001",
     "time": "135分钟",
@@ -824,7 +844,7 @@
   {
     "number": 58,
     "url": "https://movie.douban.com/subject/1301753/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://103.76.184.146:8080",
     "title": "狮子王 The Lion King",
     "year": "1994",
     "time": "89 分钟",
@@ -841,7 +861,7 @@
   {
     "number": 59,
     "url": "https://movie.douban.com/subject/1292220/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://119.102.28.173:9999",
     "title": "情书 Love Letter",
     "year": "1995",
     "time": "117分钟",
@@ -855,12 +875,24 @@
   {
     "number": 60,
     "url": "https://movie.douban.com/subject/1296736/",
-    "proxy": "http://221.7.255.168:8080"
+    "proxy": "http://113.200.56.13:8010",
+    "title": "钢琴家 The Pianist",
+    "year": "2002",
+    "time": "150分钟",
+    "director": "罗曼·波兰斯基",
+    "genre": [
+      "剧情",
+      "音乐",
+      "传记",
+      "历史",
+      "战争"
+    ],
+    "score": "9.1"
   },
   {
     "number": 61,
     "url": "https://movie.douban.com/subject/1292262/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://163.204.247.225:9999",
     "title": "美国往事 Once Upon a Time in America",
     "year": "1984",
     "time": "229分钟(导演剪辑版)",
@@ -874,7 +906,7 @@
   {
     "number": 62,
     "url": "https://movie.douban.com/subject/1485260/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://47.95.156.32:3200",
     "title": "本杰明·巴顿奇事 The Curious Case of Benjamin Button",
     "year": "2008",
     "time": "166分钟",
@@ -889,7 +921,7 @@
   {
     "number": 63,
     "url": "https://movie.douban.com/subject/1303021/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://13.114.159.59:80",
     "title": "小鞋子 بچههای آسمان",
     "year": "1997",
     "time": "89分钟",
@@ -904,7 +936,7 @@
   {
     "number": 64,
     "url": "https://movie.douban.com/subject/1291843/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://203.189.137.112:8080",
     "title": "黑客帝国 The Matrix",
     "year": "1999",
     "time": "136分钟",
@@ -918,7 +950,7 @@
   {
     "number": 65,
     "url": "https://movie.douban.com/subject/26580232/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://111.177.182.217:9999",
     "title": "看不见的客人 Contratiempo",
     "year": "2016",
     "time": "106分钟",
@@ -934,7 +966,7 @@
   {
     "number": 66,
     "url": "https://movie.douban.com/subject/1292402/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://118.173.233.152:41245",
     "title": "西西里的美丽传说 Malèna",
     "year": "2000",
     "time": "109 分钟",
@@ -949,7 +981,7 @@
   {
     "number": 67,
     "url": "https://movie.douban.com/subject/3742360/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://111.177.175.51:9999",
     "title": "让子弹飞",
     "year": "2010",
     "time": "132分钟",
@@ -965,7 +997,7 @@
   {
     "number": 68,
     "url": "https://movie.douban.com/subject/1418019/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://111.177.160.163:9999",
     "title": "大闹天宫",
     "year": "1961",
     "time": "114分钟",
@@ -979,7 +1011,7 @@
   {
     "number": 69,
     "url": "https://movie.douban.com/subject/1292849/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://163.204.247.225:9999",
     "title": "拯救大兵瑞恩 Saving Private Ryan",
     "year": "1998",
     "time": "169分钟",
@@ -994,7 +1026,7 @@
   {
     "number": 70,
     "url": "https://movie.douban.com/subject/1295038/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://111.177.175.51:9999",
     "title": "哈利·波特与魔法石 Harry Potter and the Sorcerer's Stone",
     "year": "2001",
     "time": "152分钟",
@@ -1008,7 +1040,7 @@
   {
     "number": 71,
     "url": "https://movie.douban.com/subject/1780330/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://111.177.182.217:9999",
     "title": "致命魔术 The Prestige",
     "year": "2006",
     "time": "130分钟",
@@ -1023,7 +1055,7 @@
   {
     "number": 72,
     "url": "https://movie.douban.com/subject/1292223/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://14.115.104.11:808",
     "title": "七宗罪 Se7en",
     "year": "1995",
     "time": "127分钟",
@@ -1039,7 +1071,7 @@
   {
     "number": 73,
     "url": "https://movie.douban.com/subject/1787291/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://118.174.220.11:60148",
     "title": "被嫌弃的松子的一生 嫌われ松子の一生",
     "year": "2006",
     "time": "130 分钟",
@@ -1053,7 +1085,7 @@
   {
     "number": 74,
     "url": "https://movie.douban.com/subject/1294408/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://47.95.156.32:3200",
     "title": "音乐之声 The Sound of Music",
     "year": "1965",
     "time": "174分钟",
@@ -1069,7 +1101,7 @@
   {
     "number": 75,
     "url": "https://movie.douban.com/subject/1291832/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://113.200.56.13:8010",
     "title": "低俗小说 Pulp Fiction",
     "year": "1994",
     "time": "154分钟",
@@ -1084,7 +1116,7 @@
   {
     "number": 76,
     "url": "https://movie.douban.com/subject/1292215/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://111.177.175.51:9999",
     "title": "天使爱美丽 Le fabuleux destin d'Amélie Poulain",
     "year": "2001",
     "time": "122分钟",
@@ -1098,7 +1130,7 @@
   {
     "number": 77,
     "url": "https://movie.douban.com/subject/1293544/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://14.115.104.11:808",
     "title": "沉默的羔羊 The Silence of the Lambs",
     "year": "1991",
     "time": "118分钟",
@@ -1113,7 +1145,7 @@
   {
     "number": 78,
     "url": "https://movie.douban.com/subject/1294639/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://212.83.142.185:54321",
     "title": "勇敢的心 Braveheart",
     "year": "1995",
     "time": "177 分钟",
@@ -1130,7 +1162,7 @@
   {
     "number": 79,
     "url": "https://movie.douban.com/subject/1292370/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://85.15.179.5:8080",
     "title": "剪刀手爱德华 Edward Scissorhands",
     "year": "1990",
     "time": "105分钟",
@@ -1145,7 +1177,7 @@
   {
     "number": 80,
     "url": "https://movie.douban.com/subject/1292343/",
-    "proxy": "http://176.235.184.194:8080",
+    "proxy": "http://121.233.206.27:9999",
     "title": "蝴蝶效应 The Butterfly Effect",
     "year": "2004",
     "time": "113分钟",
@@ -1161,7 +1193,7 @@
   {
     "number": 81,
     "url": "https://movie.douban.com/subject/1305487/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://111.177.182.217:9999",
     "title": "猫鼠游戏 Catch Me If You Can",
     "year": "2002",
     "time": "141 分钟",
@@ -1176,7 +1208,7 @@
   {
     "number": 82,
     "url": "https://movie.douban.com/subject/1292679/",
-    "proxy": "http://78.111.250.174:8080",
+    "proxy": "http://185.6.125.41:43176",
     "title": "春光乍泄 春光乍洩",
     "year": "1997",
     "time": "96分钟",
@@ -1191,7 +1223,7 @@
   {
     "number": 83,
     "url": "https://movie.douban.com/subject/1292656/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://124.205.155.153:9090",
     "title": "心灵捕手 Good Will Hunting",
     "year": "1997",
     "time": "126 分钟",
@@ -1204,7 +1236,7 @@
   {
     "number": 84,
     "url": "https://movie.douban.com/subject/11525673/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://111.177.160.122:9999",
     "title": "布达佩斯大饭店 The Grand Budapest Hotel",
     "year": "2014",
     "time": "99分钟",
@@ -1219,7 +1251,7 @@
   {
     "number": 85,
     "url": "https://movie.douban.com/subject/2334904/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://111.177.175.51:9999",
     "title": "禁闭岛 Shutter Island",
     "year": "2010",
     "time": "138 分钟",
@@ -1234,7 +1266,7 @@
   {
     "number": 86,
     "url": "https://movie.douban.com/subject/2149806/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://121.233.206.27:9999",
     "title": "入殓师 おくりびと",
     "year": "2008",
     "time": "130 分钟",
@@ -1247,7 +1279,7 @@
   {
     "number": 87,
     "url": "https://movie.douban.com/subject/3008247/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://114.134.189.134:8080",
     "title": "穿条纹睡衣的男孩 The Boy in the Striped Pajamas",
     "year": "2008",
     "time": "94分钟",
@@ -1261,7 +1293,7 @@
   {
     "number": 88,
     "url": "https://movie.douban.com/subject/1297359/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://103.9.190.203:8080",
     "title": "幽灵公主 もののけ姫",
     "year": "1997",
     "time": "134分钟",
@@ -1276,7 +1308,7 @@
   {
     "number": 89,
     "url": "https://movie.douban.com/subject/1652587/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://163.204.241.60:9999",
     "title": "阿凡达 Avatar",
     "year": "2009",
     "time": "162分钟",
@@ -1292,7 +1324,7 @@
   {
     "number": 90,
     "url": "https://movie.douban.com/subject/1291875/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://139.129.207.72:808",
     "title": "阳光灿烂的日子",
     "year": "1994",
     "time": "134分钟(中国大陆)",
@@ -1306,7 +1338,7 @@
   {
     "number": 91,
     "url": "https://movie.douban.com/subject/1297630/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://103.9.190.203:8080",
     "title": "第六感 The Sixth Sense",
     "year": "1999",
     "time": "107分钟",
@@ -1321,7 +1353,7 @@
   {
     "number": 92,
     "url": "https://movie.douban.com/subject/1297192/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://111.177.167.244:9999",
     "title": "致命ID Identity",
     "year": "2003",
     "time": "90分钟",
@@ -1336,7 +1368,7 @@
   {
     "number": 93,
     "url": "https://movie.douban.com/subject/3072124/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://111.177.160.163:9999",
     "title": "玛丽和马克思 Mary and Max",
     "year": "2009",
     "time": "92分钟",
@@ -1351,7 +1383,7 @@
   {
     "number": 94,
     "url": "https://movie.douban.com/subject/6985810/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://118.174.234.40:43178",
     "title": "狩猎 Jagten",
     "year": "2012",
     "time": "115分钟",
@@ -1364,7 +1396,7 @@
   {
     "number": 95,
     "url": "https://movie.douban.com/subject/1298070/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://119.82.252.75:53722",
     "title": "加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl",
     "year": "2003",
     "time": "143 分钟",
@@ -1379,7 +1411,7 @@
   {
     "number": 96,
     "url": "https://movie.douban.com/subject/1418834/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://46.101.246.130:3128",
     "title": "断背山 Brokeback Mountain",
     "year": "2005",
     "time": "134分钟",
@@ -1395,7 +1427,7 @@
   {
     "number": 97,
     "url": "https://movie.douban.com/subject/1291999/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://111.177.160.163:9999",
     "title": "重庆森林 重慶森林",
     "year": "1994",
     "time": "102分钟",
@@ -1409,7 +1441,7 @@
   {
     "number": 98,
     "url": "https://movie.douban.com/subject/1294371/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://212.83.142.185:54321",
     "title": "摩登时代 Modern Times",
     "year": "1936",
     "time": "87分钟",
@@ -1424,7 +1456,7 @@
   {
     "number": 99,
     "url": "https://movie.douban.com/subject/4268598/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://182.53.206.153:57469",
     "title": "告白",
     "year": "2010",
     "time": "106分钟",
@@ -1438,7 +1470,7 @@
   {
     "number": 100,
     "url": "https://movie.douban.com/subject/1302425/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://212.83.142.185:54321",
     "title": "喜剧之王 喜劇之王",
     "year": "1999",
     "time": "85分钟",
@@ -1453,7 +1485,7 @@
   {
     "number": 101,
     "url": "https://movie.douban.com/subject/1291545/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://121.233.206.27:9999",
     "title": "大鱼 Big Fish",
     "year": "2003",
     "time": "125 分钟",
@@ -1469,7 +1501,7 @@
   {
     "number": 102,
     "url": "https://movie.douban.com/subject/1292434/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.167.244:9999",
     "title": "一一",
     "year": "2000",
     "time": "173分钟",
@@ -1484,7 +1516,7 @@
   {
     "number": 103,
     "url": "https://movie.douban.com/subject/21318488/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://111.177.175.51:9999",
     "title": "消失的爱人 Gone Girl",
     "year": "2014",
     "time": "149分钟",
@@ -1500,7 +1532,7 @@
   {
     "number": 104,
     "url": "https://movie.douban.com/subject/1316510/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://111.177.164.170:9999",
     "title": "射雕英雄传之东成西就 射鵰英雄傳之東成西就",
     "year": "1993",
     "time": "113分钟(香港)",
@@ -1516,7 +1548,7 @@
   {
     "number": 105,
     "url": "https://movie.douban.com/subject/4917726/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.190.78:9999",
     "title": "阳光姐妹淘 써니",
     "year": "2011",
     "time": "124分钟",
@@ -1530,7 +1562,7 @@
   {
     "number": 106,
     "url": "https://movie.douban.com/subject/1305164/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://111.177.164.170:9999",
     "title": "甜蜜蜜",
     "year": "1996",
     "time": "118分钟(中国大陆)",
@@ -1544,7 +1576,7 @@
   {
     "number": 107,
     "url": "https://movie.douban.com/subject/1296339/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://118.173.233.152:41245",
     "title": "爱在黎明破晓前 Before Sunrise",
     "year": "1995",
     "time": "101分钟",
@@ -1558,7 +1590,7 @@
   {
     "number": 108,
     "url": "https://movie.douban.com/subject/25814705/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://119.102.28.173:9999",
     "title": "小森林 夏秋篇 リトル・フォレスト 夏・秋",
     "year": "2014",
     "time": "111分钟",
@@ -1571,7 +1603,7 @@
   {
     "number": 109,
     "url": "https://movie.douban.com/subject/1297052/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://111.177.182.217:9999",
     "title": "侧耳倾听 耳をすませば",
     "year": "1995",
     "time": "111分钟",
@@ -1586,7 +1618,7 @@
   {
     "number": 110,
     "url": "https://movie.douban.com/subject/2353023/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://46.101.246.130:3128",
     "title": "驯龙高手 How to Train Your Dragon",
     "year": "2010",
     "time": "98分钟",
@@ -1601,7 +1633,7 @@
   {
     "number": 111,
     "url": "https://movie.douban.com/subject/1865703/",
-    "proxy": "http://78.111.250.174:8080",
+    "proxy": "http://113.200.56.13:8010",
     "title": "红辣椒 パプリカ",
     "year": "2006",
     "time": "90 分钟",
@@ -1617,7 +1649,7 @@
   {
     "number": 112,
     "url": "https://movie.douban.com/subject/1297447/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://119.82.252.75:53722",
     "title": "倩女幽魂",
     "year": "1987",
     "time": "98分钟(香港)",
@@ -1633,7 +1665,7 @@
   {
     "number": 113,
     "url": "https://movie.douban.com/subject/26799731/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://163.204.241.60:9999",
     "title": "请以你的名字呼唤我 Call Me by Your Name",
     "year": "2017",
     "time": "132分钟",
@@ -1648,7 +1680,7 @@
   {
     "number": 114,
     "url": "https://movie.douban.com/subject/21360417/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://46.101.246.130:3128",
     "title": "恐怖直播 더 테러 라이브",
     "year": "2013",
     "time": "97分钟",
@@ -1663,7 +1695,7 @@
   {
     "number": 115,
     "url": "https://movie.douban.com/subject/1291585/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://182.53.206.153:57469",
     "title": "风之谷 風の谷のナウシカ",
     "year": "1984",
     "time": "117分钟",
@@ -1678,7 +1710,7 @@
   {
     "number": 116,
     "url": "https://movie.douban.com/subject/1292208/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://111.177.182.217:9999",
     "title": "上帝之城 Cidade de Deus",
     "year": "2002",
     "time": "130分钟",
@@ -1692,7 +1724,7 @@
   {
     "number": 117,
     "url": "https://movie.douban.com/subject/5322596/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://46.101.246.130:3128",
     "title": "超脱 Detachment",
     "year": "2011",
     "time": "97分钟",
@@ -1705,7 +1737,7 @@
   {
     "number": 118,
     "url": "https://movie.douban.com/subject/1291990/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://111.177.160.163:9999",
     "title": "爱在日落黄昏时 Before Sunset",
     "year": "2004",
     "time": "80 分钟",
@@ -1719,7 +1751,7 @@
   {
     "number": 119,
     "url": "https://movie.douban.com/subject/1293359/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://163.204.247.225:9999",
     "title": "菊次郎的夏天 菊次郎の夏",
     "year": "1999",
     "time": "121 分钟",
@@ -1733,7 +1765,7 @@
   {
     "number": 120,
     "url": "https://movie.douban.com/subject/1292274/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://203.189.137.112:8080",
     "title": "幸福终点站 The Terminal",
     "year": "2004",
     "time": "128分钟",
@@ -1748,7 +1780,7 @@
   {
     "number": 121,
     "url": "https://movie.douban.com/subject/3011235/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://103.9.190.203:8080",
     "title": "哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2",
     "year": "2011",
     "time": "130分钟",
@@ -1764,7 +1796,7 @@
   {
     "number": 122,
     "url": "https://movie.douban.com/subject/25814707/",
-    "proxy": "http://78.111.250.174:8080",
+    "proxy": "http://13.114.159.59:80",
     "title": "小森林 冬春篇 リトル・フォレスト 冬・春",
     "year": "2015",
     "time": "120分钟",
@@ -1777,7 +1809,7 @@
   {
     "number": 123,
     "url": "https://movie.douban.com/subject/1300299/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://111.177.164.170:9999",
     "title": "杀人回忆 살인의 추억",
     "year": "2003",
     "time": "130分钟",
@@ -1793,7 +1825,7 @@
   {
     "number": 124,
     "url": "https://movie.douban.com/subject/3287562/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://14.115.104.11:808",
     "title": "神偷奶爸 Despicable Me",
     "year": "2010",
     "time": "95分钟",
@@ -1808,7 +1840,7 @@
   {
     "number": 125,
     "url": "https://movie.douban.com/subject/4202302/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://46.101.246.130:3128",
     "title": "借东西的小人阿莉埃蒂 借りぐらしのアリエッティ",
     "year": "2010",
     "time": "94分钟",
@@ -1823,7 +1855,7 @@
   {
     "number": 126,
     "url": "https://movie.douban.com/subject/10777687/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://118.174.234.40:43178",
     "title": "7号房的礼物 7번방의 선물",
     "year": "2013",
     "time": "127分钟",
@@ -1838,7 +1870,7 @@
   {
     "number": 127,
     "url": "https://movie.douban.com/subject/5989818/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://47.95.156.32:3200",
     "title": "萤火之森 蛍火の杜へ",
     "year": "2011",
     "time": "45分钟",
@@ -1854,7 +1886,7 @@
   {
     "number": 128,
     "url": "https://movie.douban.com/subject/1306249/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://47.95.156.32:3200",
     "title": "唐伯虎点秋香 唐伯虎點秋香",
     "year": "1993",
     "time": "102 分钟",
@@ -1869,7 +1901,7 @@
   {
     "number": 129,
     "url": "https://movie.douban.com/subject/1291579/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://46.101.246.130:3128",
     "title": "怪兽电力公司 Monsters, Inc.",
     "year": "2001",
     "time": "92 分钟",
@@ -1886,7 +1918,7 @@
   {
     "number": 130,
     "url": "https://movie.douban.com/subject/11026735/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://85.15.179.5:8080",
     "title": "超能陆战队 Big Hero 6",
     "year": "2014",
     "time": "102分钟",
@@ -1903,7 +1935,7 @@
   {
     "number": 131,
     "url": "https://movie.douban.com/subject/3395373/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://111.177.182.217:9999",
     "title": "蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises",
     "year": "2012",
     "time": "165分钟",
@@ -1920,7 +1952,7 @@
   {
     "number": 132,
     "url": "https://movie.douban.com/subject/3792799/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://47.95.156.32:3200",
     "title": "岁月神偷 歲月神偷",
     "year": "2010",
     "time": "117分钟",
@@ -1934,7 +1966,7 @@
   {
     "number": 133,
     "url": "https://movie.douban.com/subject/1295399/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://124.205.155.153:9090",
     "title": "七武士 七人の侍",
     "year": "1954",
     "time": "160分钟(国际版)",
@@ -1949,7 +1981,7 @@
   {
     "number": 134,
     "url": "https://movie.douban.com/subject/1417598/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://120.194.42.157:38185",
     "title": "电锯惊魂 Saw",
     "year": "2004",
     "time": "103分钟",
@@ -1964,7 +1996,7 @@
   {
     "number": 135,
     "url": "https://movie.douban.com/subject/1292401/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://14.115.104.11:808",
     "title": "真爱至上 Love Actually",
     "year": "2003",
     "time": "135 分钟",
@@ -1979,7 +2011,7 @@
   {
     "number": 136,
     "url": "https://movie.douban.com/subject/1578507/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://120.194.42.157:38185",
     "title": "谍影重重3 The Bourne Ultimatum",
     "year": "2007",
     "time": "115分钟",
@@ -1994,7 +2026,7 @@
   {
     "number": 137,
     "url": "https://movie.douban.com/subject/1907966/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://118.173.233.152:41245",
     "title": "疯狂原始人 The Croods",
     "year": "2013",
     "time": "98分钟",
@@ -2009,7 +2041,7 @@
   {
     "number": 138,
     "url": "https://movie.douban.com/subject/1303037/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://118.174.234.40:43178",
     "title": "喜宴 囍宴",
     "year": "1993",
     "time": "108分钟",
@@ -2026,7 +2058,7 @@
   {
     "number": 139,
     "url": "https://movie.douban.com/subject/1293318/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://118.173.233.152:41245",
     "title": "萤火虫之墓 火垂るの墓",
     "year": "1988",
     "time": "89 分钟",
@@ -2041,7 +2073,7 @@
   {
     "number": 140,
     "url": "https://movie.douban.com/subject/1292337/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://111.177.167.244:9999",
     "title": "无人知晓 誰も知らない",
     "year": "2004",
     "time": "141分钟",
@@ -2054,7 +2086,7 @@
   {
     "number": 141,
     "url": "https://movie.douban.com/subject/1292328/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://14.115.104.11:808",
     "title": "东邪西毒 東邪西毒",
     "year": "1994",
     "time": "100分钟",
@@ -2071,7 +2103,7 @@
   {
     "number": 142,
     "url": "https://movie.douban.com/subject/2209573/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://46.101.246.130:3128",
     "title": "贫民窟的百万富翁 Slumdog Millionaire",
     "year": "2008",
     "time": "120 分钟",
@@ -2085,7 +2117,7 @@
   {
     "number": 143,
     "url": "https://movie.douban.com/subject/1297574/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://182.53.206.153:57469",
     "title": "英雄本色",
     "year": "1986",
     "time": "95分钟",
@@ -2099,7 +2131,7 @@
   {
     "number": 144,
     "url": "https://movie.douban.com/subject/1978709/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://113.200.56.13:8010",
     "title": "黑天鹅 Black Swan",
     "year": "2010",
     "time": "108分钟",
@@ -2113,7 +2145,7 @@
   {
     "number": 145,
     "url": "https://movie.douban.com/subject/1304447/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://203.189.137.112:8080",
     "title": "记忆碎片 Memento",
     "year": "2000",
     "time": "113分钟",
@@ -2129,7 +2161,7 @@
   {
     "number": 146,
     "url": "https://movie.douban.com/subject/26325320/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://182.53.206.153:57469",
     "title": "血战钢锯岭 Hacksaw Ridge",
     "year": "2016",
     "time": "139分钟(中国大陆)",
@@ -2145,7 +2177,7 @@
   {
     "number": 147,
     "url": "https://movie.douban.com/subject/25917973/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://118.174.220.11:60148",
     "title": "心迷宫",
     "year": "2014",
     "time": "110分钟(中国大陆)",
@@ -2160,7 +2192,7 @@
   {
     "number": 148,
     "url": "https://movie.douban.com/subject/1418200/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://118.174.234.40:43178",
     "title": "傲慢与偏见 Pride & Prejudice",
     "year": "2005",
     "time": "129 分钟",
@@ -2174,7 +2206,7 @@
   {
     "number": 149,
     "url": "https://movie.douban.com/subject/10577869/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://111.177.175.51:9999",
     "title": "时空恋旅人 About Time",
     "year": "2013",
     "time": "123分钟",
@@ -2189,7 +2221,7 @@
   {
     "number": 150,
     "url": "https://movie.douban.com/subject/1291870/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://113.200.56.13:8010",
     "title": "雨人 Rain Man",
     "year": "1988",
     "time": "133分钟",
@@ -2202,7 +2234,7 @@
   {
     "number": 151,
     "url": "https://movie.douban.com/subject/24750126/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://103.9.190.203:8080",
     "title": "荒蛮故事 Relatos salvajes",
     "year": "2014",
     "time": "122分钟",
@@ -2217,7 +2249,7 @@
   {
     "number": 152,
     "url": "https://movie.douban.com/subject/1295409/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://119.82.252.75:53722",
     "title": "纵横四海 緃横四海",
     "year": "1991",
     "time": "108分钟",
@@ -2233,7 +2265,7 @@
   {
     "number": 153,
     "url": "https://movie.douban.com/subject/1294240/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://119.102.28.173:9999",
     "title": "教父3 The Godfather: Part III",
     "year": "1990",
     "time": "170分钟",
@@ -2247,7 +2279,7 @@
   {
     "number": 154,
     "url": "https://movie.douban.com/subject/1793929/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://163.204.241.60:9999",
     "title": "达拉斯买家俱乐部 Dallas Buyers Club",
     "year": "2013",
     "time": "117分钟",
@@ -2262,7 +2294,7 @@
   {
     "number": 155,
     "url": "https://movie.douban.com/subject/1858711/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://111.177.190.78:9999",
     "title": "玩具总动员3 Toy Story 3",
     "year": "2010",
     "time": "103分钟",
@@ -2278,7 +2310,7 @@
   {
     "number": 156,
     "url": "https://movie.douban.com/subject/1291822/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.167.244:9999",
     "title": "卢旺达饭店 Hotel Rwanda",
     "year": "2004",
     "time": "121分钟",
@@ -2293,7 +2325,7 @@
   {
     "number": 157,
     "url": "https://movie.douban.com/subject/1300992/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://111.177.164.170:9999",
     "title": "完美的世界 A Perfect World",
     "year": "1993",
     "time": "138分钟",
@@ -2307,7 +2339,7 @@
   {
     "number": 158,
     "url": "https://movie.douban.com/subject/1291557/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://185.6.125.41:43176",
     "title": "花样年华 花樣年華",
     "year": "2000",
     "time": "98 分钟",
@@ -2321,7 +2353,7 @@
   {
     "number": 159,
     "url": "https://movie.douban.com/subject/25980443/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://13.114.159.59:80",
     "title": "海边的曼彻斯特 Manchester by the Sea",
     "year": "2016",
     "time": "137分钟",
@@ -2335,7 +2367,7 @@
   {
     "number": 160,
     "url": "https://movie.douban.com/subject/3443389/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://47.95.156.32:3200",
     "title": "海洋 Océans",
     "year": "2009",
     "time": "104分钟(法国)",
@@ -2348,7 +2380,7 @@
   {
     "number": 161,
     "url": "https://movie.douban.com/subject/1296909/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://185.6.125.41:43176",
     "title": "虎口脱险 La grande vadrouille",
     "year": "1966",
     "time": "132分钟",
@@ -2362,7 +2394,7 @@
   {
     "number": 162,
     "url": "https://movie.douban.com/subject/1309163/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://163.204.241.60:9999",
     "title": "恋恋笔记本 The Notebook",
     "year": "2004",
     "time": "123分钟",
@@ -2376,7 +2408,7 @@
   {
     "number": 163,
     "url": "https://movie.douban.com/subject/4848115/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://111.177.167.244:9999",
     "title": "你看起来好像很好吃 おまえうまそうだな",
     "year": "2010",
     "time": "90分钟",
@@ -2391,7 +2423,7 @@
   {
     "number": 164,
     "url": "https://movie.douban.com/subject/26430107/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://182.53.206.153:57469",
     "title": "二十二",
     "year": "2015",
     "time": "99分钟(公映版)",
@@ -2404,7 +2436,7 @@
   {
     "number": 165,
     "url": "https://movie.douban.com/subject/6307447/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://203.189.137.112:8080",
     "title": "被解救的姜戈 Django Unchained",
     "year": "2012",
     "time": "163分钟(中国大陆)",
@@ -2420,7 +2452,7 @@
   {
     "number": 166,
     "url": "https://movie.douban.com/subject/10533913/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://120.194.42.157:38185",
     "title": "头脑特工队 Inside Out",
     "year": "2015",
     "time": "95分钟",
@@ -2435,7 +2467,7 @@
   {
     "number": 167,
     "url": "https://movie.douban.com/subject/1295865/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://118.173.233.152:41245",
     "title": "燃情岁月 Legends of the Fall",
     "year": "1994",
     "time": "133分钟",
@@ -2446,12 +2478,12 @@
       "战争",
       "西部"
     ],
-    "score": "8.7"
+    "score": "8.8"
   },
   {
     "number": 168,
     "url": "https://movie.douban.com/subject/6534248/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://111.177.160.163:9999",
     "title": "无敌破坏王 Wreck-It Ralph",
     "year": "2012",
     "time": "101分钟",
@@ -2467,7 +2499,7 @@
   {
     "number": 169,
     "url": "https://movie.douban.com/subject/1291578/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://118.174.234.40:43178",
     "title": "冰川时代 Ice Age",
     "year": "2002",
     "time": "81 分钟",
@@ -2482,7 +2514,7 @@
   {
     "number": 170,
     "url": "https://movie.douban.com/subject/26683290/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://85.15.179.5:8080",
     "title": "你的名字。 君の名は。",
     "year": "2016",
     "time": "106分钟",
@@ -2497,7 +2529,7 @@
   {
     "number": 171,
     "url": "https://movie.douban.com/subject/1306861/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://111.177.171.7:9999",
     "title": "我是山姆 I Am Sam",
     "year": "2001",
     "time": "132 分钟",
@@ -2511,7 +2543,7 @@
   {
     "number": 172,
     "url": "https://movie.douban.com/subject/1293460/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://163.204.247.225:9999",
     "title": "雨中曲 Singin' in the Rain",
     "year": "1952",
     "time": "103分钟",
@@ -2526,7 +2558,7 @@
   {
     "number": 173,
     "url": "https://movie.douban.com/subject/25773932/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://111.177.164.170:9999",
     "title": "爆裂鼓手 Whiplash",
     "year": "2014",
     "time": "107分钟",
@@ -2540,7 +2572,7 @@
   {
     "number": 174,
     "url": "https://movie.douban.com/subject/1302827/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://85.15.179.5:8080",
     "title": "人工智能 Artificial Intelligence: AI",
     "year": "2001",
     "time": "146分钟",
@@ -2555,7 +2587,7 @@
   {
     "number": 175,
     "url": "https://movie.douban.com/subject/26611804/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://118.174.220.11:60148",
     "title": "三块广告牌 Three Billboards Outside Ebbing, Missouri",
     "year": "2017",
     "time": "115分钟",
@@ -2569,7 +2601,7 @@
   {
     "number": 176,
     "url": "https://movie.douban.com/subject/1937946/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://111.177.167.244:9999",
     "title": "穿越时空的少女 時をかける少女",
     "year": "2006",
     "time": "98分钟",
@@ -2585,7 +2617,7 @@
   {
     "number": 177,
     "url": "https://movie.douban.com/subject/1293964/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://124.205.155.153:9090",
     "title": "魂断蓝桥 Waterloo Bridge",
     "year": "1940",
     "time": "108分钟",
@@ -2600,7 +2632,7 @@
   {
     "number": 178,
     "url": "https://movie.douban.com/subject/1395091/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://47.95.156.32:3200",
     "title": "未麻的部屋 Perfect Blue",
     "year": "1997",
     "time": "81 分钟",
@@ -2615,7 +2647,7 @@
   {
     "number": 179,
     "url": "https://movie.douban.com/subject/1292528/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://85.15.179.5:8080",
     "title": "猜火车 Trainspotting",
     "year": "1996",
     "time": "94分钟",
@@ -2629,7 +2661,7 @@
   {
     "number": 180,
     "url": "https://movie.douban.com/subject/10463953/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://111.177.160.122:9999",
     "title": "模仿游戏 The Imitation Game",
     "year": "2014",
     "time": "114分钟",
@@ -2645,7 +2677,7 @@
   {
     "number": 181,
     "url": "https://movie.douban.com/subject/26628357/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://124.205.155.153:9090",
     "title": "一个叫欧维的男人决定去死 En man som heter Ove",
     "year": "2015",
     "time": "116分钟",
@@ -2658,7 +2690,7 @@
   {
     "number": 182,
     "url": "https://movie.douban.com/subject/25724855/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://113.200.56.13:8010",
     "title": "房间 Room",
     "year": "2015",
     "time": "118分钟",
@@ -2672,7 +2704,7 @@
   {
     "number": 183,
     "url": "https://movie.douban.com/subject/1959195/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://121.233.206.27:9999",
     "title": "忠犬八公物语 ハチ公物語",
     "year": "1987",
     "time": "107 分钟",
@@ -2685,7 +2717,7 @@
   {
     "number": 184,
     "url": "https://movie.douban.com/subject/26614893/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://113.200.56.13:8010",
     "title": "完美陌生人 Perfetti sconosciuti",
     "year": "2016",
     "time": "97分钟",
@@ -2699,7 +2731,7 @@
   {
     "number": 185,
     "url": "https://movie.douban.com/subject/1291879/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://111.177.160.122:9999",
     "title": "罗生门 羅生門",
     "year": "1950",
     "time": "88分钟",
@@ -2714,7 +2746,7 @@
   {
     "number": 186,
     "url": "https://movie.douban.com/subject/3011051/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://111.177.160.163:9999",
     "title": "恐怖游轮 Triangle",
     "year": "2009",
     "time": "99 分钟",
@@ -2729,7 +2761,7 @@
   {
     "number": 187,
     "url": "https://movie.douban.com/subject/1307811/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://111.177.164.170:9999",
     "title": "魔女宅急便 魔女の宅急便",
     "year": "1989",
     "time": "103分钟",
@@ -2744,7 +2776,7 @@
   {
     "number": 188,
     "url": "https://movie.douban.com/subject/1305690/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://118.174.220.11:60148",
     "title": "阿飞正传 阿飛正傳",
     "year": "1990",
     "time": "94分钟",
@@ -2759,7 +2791,7 @@
   {
     "number": 189,
     "url": "https://movie.douban.com/subject/1760622/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://203.189.137.112:8080",
     "title": "香水 Perfume: The Story of a Murderer",
     "year": "2006",
     "time": "147分钟",
@@ -2774,7 +2806,7 @@
   {
     "number": 190,
     "url": "https://movie.douban.com/subject/2297265/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://111.177.160.122:9999",
     "title": "浪潮 Die Welle",
     "year": "2008",
     "time": "107 分钟",
@@ -2788,7 +2820,7 @@
   {
     "number": 191,
     "url": "https://movie.douban.com/subject/2213597/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://121.233.206.27:9999",
     "title": "朗读者 The Reader",
     "year": "2008",
     "time": "124 分钟",
@@ -2802,7 +2834,7 @@
   {
     "number": 192,
     "url": "https://movie.douban.com/subject/1307315/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://111.177.164.170:9999",
     "title": "哪吒闹海",
     "year": "1979",
     "time": "65分钟",
@@ -2817,7 +2849,7 @@
   {
     "number": 193,
     "url": "https://movie.douban.com/subject/1308857/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://121.233.206.27:9999",
     "title": "可可西里",
     "year": "2004",
     "time": "85分钟(中国大陆)",
@@ -2831,7 +2863,7 @@
   {
     "number": 194,
     "url": "https://movie.douban.com/subject/1302467/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://111.177.160.122:9999",
     "title": "黑客帝国3：矩阵革命 The Matrix Revolutions",
     "year": "2003",
     "time": "129 分钟",
@@ -2845,7 +2877,7 @@
   {
     "number": 195,
     "url": "https://movie.douban.com/subject/25895901/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://212.83.142.185:54321",
     "title": "海街日记 海街diary",
     "year": "2015",
     "time": "127分钟",
@@ -2859,7 +2891,7 @@
   {
     "number": 196,
     "url": "https://movie.douban.com/subject/1304102/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://120.194.42.157:38185",
     "title": "谍影重重 The Bourne Identity",
     "year": "2002",
     "time": "119分钟",
@@ -2874,7 +2906,7 @@
   {
     "number": 197,
     "url": "https://movie.douban.com/subject/1308767/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://14.115.104.11:808",
     "title": "谍影重重2 The Bourne Supremacy",
     "year": "2004",
     "time": "108分钟",
@@ -2889,7 +2921,7 @@
   {
     "number": 198,
     "url": "https://movie.douban.com/subject/1419936/",
-    "proxy": "http://212.77.138.161:41258",
+    "proxy": "http://203.189.137.112:8080",
     "title": "战争之王 Lord of War",
     "year": "2005",
     "time": "122 分钟",
@@ -2903,7 +2935,7 @@
   {
     "number": 199,
     "url": "https://movie.douban.com/subject/1292329/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://203.189.137.112:8080",
     "title": "牯岭街少年杀人事件 牯嶺街少年殺人事件",
     "year": "1991",
     "time": "237分钟(导演剪辑版)",
@@ -2917,7 +2949,7 @@
   {
     "number": 200,
     "url": "https://movie.douban.com/subject/2363506/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://182.53.206.153:57469",
     "title": "地球上的星星 Taare Zameen Par",
     "year": "2007",
     "time": "165分钟",
@@ -2932,7 +2964,7 @@
   {
     "number": 201,
     "url": "https://movie.douban.com/subject/5964718/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://13.114.159.59:80",
     "title": "一次别离 جدایی نادر از سیمین",
     "year": "2011",
     "time": "123分钟",
@@ -2946,7 +2978,7 @@
   {
     "number": 202,
     "url": "https://movie.douban.com/subject/1303394/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://185.6.125.41:43176",
     "title": "青蛇",
     "year": "1993",
     "time": "99分钟",
@@ -2962,7 +2994,7 @@
   {
     "number": 203,
     "url": "https://movie.douban.com/subject/1293181/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://163.204.241.60:9999",
     "title": "惊魂记 Psycho",
     "year": "1960",
     "time": "109分钟",
@@ -2977,7 +3009,7 @@
   {
     "number": 204,
     "url": "https://movie.douban.com/subject/1397546/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://163.204.245.150:9999",
     "title": "追随 Following",
     "year": "1998",
     "time": "69分钟",
@@ -2992,7 +3024,7 @@
   {
     "number": 205,
     "url": "https://movie.douban.com/subject/1862151/",
-    "proxy": "http://60.13.42.155:9999",
+    "proxy": "http://124.205.155.153:9090",
     "title": "疯狂的石头",
     "year": "2006",
     "time": "106 分钟(香港)",
@@ -3006,7 +3038,7 @@
   {
     "number": 206,
     "url": "https://movie.douban.com/subject/1291844/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://163.204.241.60:9999",
     "title": "终结者2：审判日 Terminator 2: Judgment Day",
     "year": "1991",
     "time": "137分钟",
@@ -3020,7 +3052,7 @@
   {
     "number": 207,
     "url": "https://movie.douban.com/subject/26393561/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://203.189.137.112:8080",
     "title": "小萝莉的猴神大叔 Bajrangi Bhaijaan",
     "year": "2015",
     "time": "159分钟",
@@ -3035,7 +3067,7 @@
   {
     "number": 208,
     "url": "https://movie.douban.com/subject/3075287/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://119.102.28.173:9999",
     "title": "源代码 Source Code",
     "year": "2011",
     "time": "93分钟",
@@ -3050,7 +3082,7 @@
   {
     "number": 209,
     "url": "https://movie.douban.com/subject/1388216/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://14.115.104.11:808",
     "title": "撞车 Crash",
     "year": "2004",
     "time": "112分钟",
@@ -3064,7 +3096,7 @@
   {
     "number": 210,
     "url": "https://movie.douban.com/subject/2222996/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://111.177.167.244:9999",
     "title": "步履不停 歩いても 歩いても",
     "year": "2008",
     "time": "115分钟",
@@ -3078,7 +3110,7 @@
   {
     "number": 211,
     "url": "https://movie.douban.com/subject/6874403/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://119.82.252.75:53722",
     "title": "再次出发之纽约遇见你 Begin Again",
     "year": "2013",
     "time": "104分钟",
@@ -3093,7 +3125,7 @@
   {
     "number": 212,
     "url": "https://movie.douban.com/subject/4739952/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://163.204.247.225:9999",
     "title": "初恋这件小事 สิ่งเล็กเล็กที่เรียกว่า...รัก",
     "year": "2010",
     "time": "118分钟(泰国)",
@@ -3108,7 +3140,7 @@
   {
     "number": 213,
     "url": "https://movie.douban.com/subject/1292287/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://119.82.252.75:53722",
     "title": "新龙门客栈 新龍門客棧",
     "year": "1992",
     "time": "88分钟",
@@ -3124,7 +3156,7 @@
   {
     "number": 214,
     "url": "https://movie.douban.com/subject/1292270/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://121.233.206.27:9999",
     "title": "梦之安魂曲 Requiem for a Dream",
     "year": "2000",
     "time": "102分钟",
@@ -3137,7 +3169,7 @@
   {
     "number": 215,
     "url": "https://movie.douban.com/subject/1428581/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.170.212:9999",
     "title": "天书奇谭",
     "year": "1983",
     "time": "89分钟",
@@ -3151,7 +3183,7 @@
   {
     "number": 216,
     "url": "https://movie.douban.com/subject/10808442/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://118.174.234.40:43178",
     "title": "爱在午夜降临前 Before Midnight",
     "year": "2013",
     "time": "109分钟",
@@ -3165,7 +3197,7 @@
   {
     "number": 217,
     "url": "https://movie.douban.com/subject/1291568/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://120.194.42.157:38185",
     "title": "东京物语 東京物語",
     "year": "1953",
     "time": "136 分钟",
@@ -3179,7 +3211,7 @@
   {
     "number": 218,
     "url": "https://movie.douban.com/subject/1438652/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://111.177.190.78:9999",
     "title": "无耻混蛋 Inglourious Basterds",
     "year": "2009",
     "time": "153分钟",
@@ -3193,7 +3225,7 @@
   {
     "number": 219,
     "url": "https://movie.douban.com/subject/1293908/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://118.174.234.40:43178",
     "title": "城市之光 City Lights",
     "year": "1931",
     "time": "87 分钟",
@@ -3208,7 +3240,7 @@
   {
     "number": 220,
     "url": "https://movie.douban.com/subject/25958717/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://185.6.125.41:43176",
     "title": "海蒂和爷爷 Heidi",
     "year": "2015",
     "time": "111分钟",
@@ -3223,7 +3255,7 @@
   {
     "number": 221,
     "url": "https://movie.douban.com/subject/1300374/",
-    "proxy": "http://47.89.29.195:8118",
+    "proxy": "http://111.177.190.78:9999",
     "title": "绿里奇迹 The Green Mile",
     "year": "1999",
     "time": "189 分钟",
@@ -3239,7 +3271,7 @@
   {
     "number": 222,
     "url": "https://movie.douban.com/subject/25807345/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://118.174.234.40:43178",
     "title": "彗星来的那一夜 Coherence",
     "year": "2013",
     "time": "89分钟",
@@ -3254,7 +3286,7 @@
   {
     "number": 223,
     "url": "https://movie.douban.com/subject/2300586/",
-    "proxy": "http://118.140.150.74:3128",
+    "proxy": "http://111.177.182.217:9999",
     "title": "这个男人来自地球 The Man from Earth",
     "year": "2007",
     "time": "87 分钟",
@@ -3268,7 +3300,7 @@
   {
     "number": 224,
     "url": "https://movie.douban.com/subject/1428175/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://113.200.56.13:8010",
     "title": "血钻 Blood Diamond",
     "year": "2006",
     "time": "143 分钟",
@@ -3283,7 +3315,7 @@
   {
     "number": 225,
     "url": "https://movie.douban.com/subject/1294638/",
-    "proxy": "http://1.20.98.15:55031",
+    "proxy": "http://111.177.187.154:9999",
     "title": "E.T. 外星人 E.T.: The Extra-Terrestrial",
     "year": "1982",
     "time": "115分钟",
@@ -3297,7 +3329,7 @@
   {
     "number": 226,
     "url": "https://movie.douban.com/subject/1291992/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://212.83.142.185:54321",
     "title": "末路狂花 Thelma & Louise",
     "year": "1991",
     "time": "130 分钟",
@@ -3312,7 +3344,7 @@
   {
     "number": 227,
     "url": "https://movie.douban.com/subject/1292226/",
-    "proxy": "http://176.235.184.194:8080",
+    "proxy": "http://124.205.155.153:9090",
     "title": "2001太空漫游 2001: A Space Odyssey",
     "year": "1968",
     "time": "149分钟",
@@ -3327,7 +3359,7 @@
   {
     "number": 228,
     "url": "https://movie.douban.com/subject/25954475/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://118.173.233.152:41245",
     "title": "聚焦 Spotlight",
     "year": "2015",
     "time": "128分钟",
@@ -3341,7 +3373,7 @@
   {
     "number": 229,
     "url": "https://movie.douban.com/subject/1292728/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://185.6.125.41:43176",
     "title": "勇闯夺命岛 The Rock",
     "year": "1996",
     "time": "136分钟",
@@ -3355,7 +3387,7 @@
   {
     "number": 230,
     "url": "https://movie.douban.com/subject/1292659/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://13.114.159.59:80",
     "title": "变脸 Face/Off",
     "year": "1997",
     "time": "138分钟",
@@ -3371,7 +3403,7 @@
   {
     "number": 231,
     "url": "https://movie.douban.com/subject/1292233/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://124.205.155.153:9090",
     "title": "发条橙 A Clockwork Orange",
     "year": "1971",
     "time": "136 分钟",
@@ -3386,7 +3418,7 @@
   {
     "number": 232,
     "url": "https://movie.douban.com/subject/2043546/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://88.147.254.202:3128",
     "title": "秒速5厘米 秒速5センチメートル",
     "year": "2007",
     "time": "63分钟",
@@ -3401,7 +3433,7 @@
   {
     "number": 233,
     "url": "https://movie.douban.com/subject/1401118/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.187.249:9999",
     "title": "黄金三镖客 Il buono, il brutto, il cattivo.",
     "year": "1966",
     "time": "161 分钟",
@@ -3415,7 +3447,7 @@
   {
     "number": 234,
     "url": "https://movie.douban.com/subject/1291824/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://111.177.167.244:9999",
     "title": "黑鹰坠落 Black Hawk Down",
     "year": "2001",
     "time": "144分钟",
@@ -3430,7 +3462,7 @@
   {
     "number": 235,
     "url": "https://movie.douban.com/subject/1292214/",
-    "proxy": "http://47.95.113.137:8118",
+    "proxy": "http://47.95.156.32:3200",
     "title": "非常嫌疑犯 The Usual Suspects",
     "year": "1995",
     "time": "106分钟",
@@ -3446,7 +3478,7 @@
   {
     "number": 236,
     "url": "https://movie.douban.com/subject/1296753/",
-    "proxy": "http://1.20.99.178:34781",
+    "proxy": "http://212.83.142.185:54321",
     "title": "卡萨布兰卡 Casablanca",
     "year": "1942",
     "time": "102分钟",
@@ -3461,7 +3493,7 @@
   {
     "number": 237,
     "url": "https://movie.douban.com/subject/5908478/",
-    "proxy": "http://59.120.18.103:55006",
+    "proxy": "http://119.82.252.75:53722",
     "title": "我爱你 그대를 사랑합니다",
     "year": "2011",
     "time": "118分钟",
@@ -3475,7 +3507,7 @@
   {
     "number": 238,
     "url": "https://movie.douban.com/subject/4023638/",
-    "proxy": "http://163.204.240.224:9999",
+    "proxy": "http://185.6.125.41:43176",
     "title": "国王的演讲 The King's Speech",
     "year": "2010",
     "time": "118分钟",
@@ -3490,7 +3522,7 @@
   {
     "number": 239,
     "url": "https://movie.douban.com/subject/1300117/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://185.6.125.41:43176",
     "title": "千钧一发 Gattaca",
     "year": "1997",
     "time": "106分钟",
@@ -3505,7 +3537,7 @@
   {
     "number": 240,
     "url": "https://movie.douban.com/subject/1292062/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://118.174.220.11:60148",
     "title": "美国丽人 American Beauty",
     "year": "1999",
     "time": "122分钟",
@@ -3520,7 +3552,7 @@
   {
     "number": 241,
     "url": "https://movie.douban.com/subject/1291543/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://111.177.190.78:9999",
     "title": "功夫",
     "year": "2004",
     "time": "100分钟(3D重映)",
@@ -3536,7 +3568,7 @@
   {
     "number": 242,
     "url": "https://movie.douban.com/subject/1867345/",
-    "proxy": "http://5.59.52.241:8080",
+    "proxy": "http://182.53.206.153:57469",
     "title": "遗愿清单 The Bucket List",
     "year": "2007",
     "time": "97 分钟",
@@ -3551,7 +3583,7 @@
   {
     "number": 243,
     "url": "https://movie.douban.com/subject/3592854/",
-    "proxy": "http://81.1.213.36:8080",
+    "proxy": "http://111.177.164.170:9999",
     "title": "疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road",
     "year": "2015",
     "time": "120分钟",
@@ -3566,7 +3598,7 @@
   {
     "number": 244,
     "url": "https://movie.douban.com/subject/1300960/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://111.177.175.51:9999",
     "title": "碧海蓝天 Le grand bleu",
     "year": "1988",
     "time": "132分钟(法国)",
@@ -3580,7 +3612,7 @@
   {
     "number": 245,
     "url": "https://movie.douban.com/subject/1298653/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://85.15.179.5:8080",
     "title": "荒岛余生 Cast Away",
     "year": "2000",
     "time": "143分钟",
@@ -3594,7 +3626,7 @@
   {
     "number": 246,
     "url": "https://movie.douban.com/subject/1291853/",
-    "proxy": "http://163.204.246.81:9999",
+    "proxy": "http://119.82.252.75:53722",
     "title": "英国病人 The English Patient",
     "year": "1996",
     "time": "162分钟",
@@ -3609,7 +3641,7 @@
   {
     "number": 247,
     "url": "https://movie.douban.com/subject/1905462/",
-    "proxy": "http://95.181.130.149:35689",
+    "proxy": "http://111.177.160.122:9999",
     "title": "荒野生存 Into the Wild",
     "year": "2007",
     "time": "148分钟",
@@ -3624,7 +3656,7 @@
   {
     "number": 248,
     "url": "https://movie.douban.com/subject/25921812/",
-    "proxy": "http://163.204.246.152:9999",
+    "proxy": "http://118.173.233.152:41245",
     "title": "驴得水",
     "year": "2016",
     "time": "111分钟",
@@ -3638,12 +3670,22 @@
   {
     "number": 249,
     "url": "https://movie.douban.com/subject/26787574/",
-    "proxy": "http://113.161.173.10:3128"
+    "proxy": "http://111.177.164.170:9999",
+    "title": "奇迹男孩 Wonder",
+    "year": "2017",
+    "time": "113分钟",
+    "director": "斯蒂芬·卓博斯基",
+    "genre": [
+      "剧情",
+      "家庭",
+      "儿童"
+    ],
+    "score": "8.6"
   },
   {
     "number": 250,
     "url": "https://movie.douban.com/subject/1300741/",
-    "proxy": "http://46.52.165.155:8080",
+    "proxy": "http://14.115.104.11:808",
     "title": "枪火 鎗火",
     "year": "1999",
     "time": "84分钟(香港)",

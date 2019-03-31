@@ -29,7 +29,7 @@ proxies = deque()
 proxies_used = set()
 proxy_connection_timeout = 3
 # proxy delay time
-proxy_delay_center = 1.5
+proxy_delay_center = 4
 proxy_delay_radius = 1
 proxy_search_period = 0.001
 # movie urls
@@ -86,9 +86,10 @@ async def allocate_proxy(max_tasks):
         will_delay = False
         try:
             if task_count == max_tasks:
-                print('达到最大任务数%d！已经完成所有任务！不再分配代理啦~' % max_tasks)
+                print('已经完成所有%d个任务！不再分配代理啦~' % max_tasks)
                 will_break = True
-            if len(proxies) == 0:
+            len_proxies = len(proxies)
+            if len_proxies == 0:
                 if len(proxies_used) == 0:
                     print('代理全部挂了，不再分配代理啦= = = = =')
                     cond.notify_all()
@@ -96,29 +97,19 @@ async def allocate_proxy(max_tasks):
                 else:
                     will_delay = True
             else:
-                # notify one by one
-                cond.notify()
-                # sleep first, schedule a little bit later
-                await asyncio.sleep(proxy_search_period)
+                # notify len(proxies) each time
+                cond.notify(len_proxies)
         finally:
             cond.release()
             if will_break:
                 break
-            if will_delay:
+            elif will_delay:
                 delay_time = get_proxy_delay_time()
                 print('代理暂时还都在用，延迟%f秒再分配代理！' % delay_time)
                 await asyncio.sleep(delay_time)
-
-
-async def set_proxy_in_use(proxy):
-    """
-    set a proxy in use
-    """
-    await cond.acquire()
-    try:
-        proxies_used.add(proxy)
-    finally:
-        cond.release()
+            else:
+                # let other tasks run
+                await asyncio.sleep(proxy_search_period)
 
 
 async def recycle_proxy(proxy):
@@ -128,6 +119,7 @@ async def recycle_proxy(proxy):
     """
     await cond.acquire()
     try:
+        proxies_used.discard(proxy)
         proxies.append(proxy)
     finally:
         cond.release()
@@ -144,6 +136,7 @@ async def get_proxy():
         await cond.wait()
         if len(proxies) > 0:
             proxy = proxies.popleft()
+            proxies_used.add(proxy)
     finally:
         cond.release()
     return proxy
@@ -155,8 +148,7 @@ async def remove_proxy(proxy):
     """
     await cond.acquire()
     try:
-        if proxy in proxies_used:
-            proxies_used.remove(proxy)
+        proxies_used.discard(proxy)
         print('当前代理池代理数：%d --- 当前在用代理数：%d' % (len(proxies), len(proxies_used)))
     finally:
         cond.release()
@@ -185,7 +177,6 @@ async def crawl_movie_url(session, url, movie_num):
         if not proxy:
             log(movie_num, 'TMD代理全部挂了，凉凉= =')
             return
-        await set_proxy_in_use(proxy)
         # result contains info of a movie
         result = {'number': movie_num, 'url': url, 'proxy': proxy}
         log(movie_num, '代理%s正在访问%s...' % (proxy, url))
@@ -195,8 +186,8 @@ async def crawl_movie_url(session, url, movie_num):
             status_code = response.status
             if status_code == 200:
                 # if no error on response, parse html
-                html_body = await response.text()
-                soup = BeautifulSoup(html_body, html_parser)
+                html = await response.text()
+                soup = BeautifulSoup(html, html_parser)
                 for k in content_func_map.keys():
                     try:
                         # crawl content on specific rules
@@ -245,15 +236,15 @@ async def main():
         sys.exit(0)
     # create client session connected to the internet
     async with aiohttp.ClientSession() as session:
-        # generate tasks for spider
-        tasks = list()
         num_urls = len(movie_urls)
         # set condition variable
         global cond
         cond = asyncio.Condition()
-        # add tasks
+        # generate tasks for spider
+        tasks = list()
         for i in range(num_urls):
             tasks.append(crawl_movie_url(session, movie_urls[i], i + 1))
+        # put proxy allocation task to the last one
         tasks.append(allocate_proxy(len(tasks)))
         # execute tasks
         await asyncio.gather(*tasks)

@@ -17,7 +17,8 @@ if __name__ == '__main__':
         url = get_start_url(i)
         response = requests.get(url)
         if response.status_code == 200:
-            soup = BeautifulSoup(response.text, html_parser)
+            html = response.text
+            soup = BeautifulSoup(html, html_parser)
             for movies in soup.find_all('div', class_='hd'):
                 cnt += 1
                 movie_url = movies.find('a')['href']
@@ -25,6 +26,7 @@ if __name__ == '__main__':
                 print('%d --- %s: %s' % (cnt, movie_name, movie_url))
                 movie_url_file.write(movie_url + '\n')
         else:
-            print('Cannot get content of page %d with status code %d!' % (i + 1, response.status_code))
+            print('Cannot get content of page %d with status code %d!' %
+                  (i + 1, response.status_code))
             time.sleep(3)
     movie_url_file.close()
