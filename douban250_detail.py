@@ -26,8 +26,10 @@ headers = {
 # http proxies
 proxies = set()
 proxies_used = set()
-proxy_delay_time = 3
-proxy_connection_timeout = 3
+proxy_connection_timeout = 2
+# proxy delay time
+proxy_delay_center = 2
+proxy_delay_radius = 1
 # movie urls
 movie_urls = []
 # task count
@@ -58,6 +60,14 @@ def get_movie_urls():
     with open('movie_urls.txt', 'r', encoding='utf-8') as f:
         movie_urls.extend(f.read().splitlines())
         f.close()
+
+
+def get_proxy_delay_time():
+    """
+    generate random delay time
+    :return:
+    """
+    return (proxy_delay_center - proxy_delay_radius) + (2 * proxy_delay_radius * random.random())
 
 
 async def remove_proxy(proxy_set, proxy):
@@ -93,11 +103,12 @@ async def get_random_proxy(movie_num):
     while True:
         delay = False
         await lock.acquire()
+        proxy_delay_time = get_proxy_delay_time()
         try:
             proxy = random.sample(proxies, 1)[0]
             if proxy in proxies_used:
-                # limit the speed of one proxy, delay 1s in schedule
-                # log(movie_num, '代理%s还在使用中，延迟%d秒再找= =' % (proxy, proxy_delay_time))
+                # limit the speed of one proxy, delay in schedule
+                log(movie_num, '代理%s还在使用中，延迟%f秒再找= =' % (proxy, proxy_delay_time))
                 delay = True
             else:
                 proxies_used.add(proxy)
@@ -106,7 +117,7 @@ async def get_random_proxy(movie_num):
             if len(proxies) == 0:
                 no_proxy = True
             else:
-                log(movie_num, '获取代理出错，延迟%d秒再找= =错误信息：%s' % (proxy_delay_time, e))
+                log(movie_num, '获取代理出错，延迟%f秒再找= =错误信息：%s' % (proxy_delay_time, e))
                 delay = True
         finally:
             lock.release()
